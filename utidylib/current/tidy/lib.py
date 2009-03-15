@@ -23,7 +23,7 @@ from tidy.error import *
 thelib=None
 os.environ['PATH'] = "%s%s%s" % (packagedir, os.pathsep, os.environ['PATH'])
 for libname in ('cygtidy-0-99-0', 'libtidy', 'libtidy.so',
-                'libtidy-0.99.so.0', 'tidylib'):
+                'libtidy-0.99.so.0', 'tidylib', 'tidylib.dylib'):
     try:
         thelib = getattr(ctypes.cdll, libname)
         break
