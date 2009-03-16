@@ -208,6 +208,35 @@ class Media(models.Model):
             'MEDIA_URL':settings.MEDIA_URL
         }))
         
+class Listing(Media):
+    file = models.FileField(upload_to='listings/%Y/%b/%d', blank=True, null=True)
+    def absolute_url(self, format):
+        return "%slistings/%s/%s" % format
+        
+    def highlight(self):
+        if self.file:   
+            highlight_file = '%s.highlight.html' % self.file.path
+            highlight_url = os.path.join(settings.MEDIA_URL, 
+                                    relpath(highlight_file, settings.MEDIA_ROOT))               
+            if not os.path.exists(highlight_file):
+                try:
+                    from pygments import highlight
+                    from pygments.lexers import guess_lexer_for_filename
+                    from pygments.formatters import HtmlFormatter
+                except ImportError:
+                    return '<a href="%s" title="%s">%s</a>'%\
+                            (self.get_absolute_url(), self.title, self.title)
+                text = self.file.read()
+                lexer = guess_lexer_for_filename(os.path.basename(self.file.name), text)
+                html = highlight(text, lexer, HtmlFormatter())
+                f = File(open(highlight_file, 'w'))
+                f.write(html)
+                f.close()
+            return '<a href="%s" title="%s">%s</a> (<a href="%s" title="%s download">download</a>)'%\
+                        (highlight_url, self.title, self.title, self.file.url, self.title)
+    highlight.allow_tags = True
+    highlight.short_description = 'Highlighted Text'
+
 class Image(Media):
     file = models.ImageField(upload_to='img/%Y/%b/%d', blank=True, null=True)
     
@@ -334,7 +363,7 @@ class Collection(models.Model):
             self.zip_file.delete()
             super(Collection, self).save(*(), **{})
 
-collection_limits = {'model__in':('image','audio','video','flash')}
+collection_limits = {'model__in':('image','audio','video','flash', 'listing')}
 class CollectionRelation(models.Model):
     collection = models.ForeignKey(Collection)
     content_type = models.ForeignKey(ContentType, limit_choices_to=collection_limits)

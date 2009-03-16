@@ -1,6 +1,6 @@
 from django.contrib import admin
 from massmedia.models import Image,Video,Audio,Flash,Collection,\
-    CollectionRelation,MediaTemplate,VoxantVideo
+    CollectionRelation,MediaTemplate,VoxantVideo,Listing
 from django.contrib.contenttypes.models import ContentType
 from django.template.defaultfilters import slugify
 from massmedia import settings
@@ -61,6 +61,7 @@ class VoxantVideoAdmin(VideoAdmin):
     
 class AudioAdmin(MediaAdmin,admin.ModelAdmin): pass
 class FlashAdmin(MediaAdmin,admin.ModelAdmin): pass
+class ListingAdmin(MediaAdmin,admin.ModelAdmin): pass
 
 class CollectionInline(GenericCollectionTabularInline):
     model = CollectionRelation
@@ -82,6 +83,7 @@ admin.site.register(Video, VideoAdmin)
 admin.site.register(Audio, AudioAdmin)
 admin.site.register(Flash, FlashAdmin)
 admin.site.register(VoxantVideo, VoxantVideoAdmin)
+admin.site.register(Listing, ListingAdmin)
 admin.site.register(CollectionRelation)
 
 if settings.TEMPLATE_MODE == settings.ADMIN:

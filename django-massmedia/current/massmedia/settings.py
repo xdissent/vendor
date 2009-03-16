@@ -3,6 +3,8 @@ IMAGE_EXTS = ('bmp','gif','ico','cur','jpg','jpeg','pcx','png','psd','tga','tiff
 VIDEO_EXTS = ('asf','wmv','flv','mov','mpeg','mpg','mpe','vob','qt','mp4','m4v','rm','avi','ogm')
 AUDIO_EXTS = ('asf','aif','aiff','aifc','flac','au','snd','mid','midi','mpa','m4a','mp1','mp2','mp3','ra','xm','wav','ogg')
 FLASH_EXTS = ('swf',)
+LISTING_EXTS = ('txt', 'rst', 'diff', 'py', 'js',)
+IGNORE_EXTS = ('DS_Store',)
 
 # Information quality for parsing metadata (0.0=fastest, 1.0=best, and default is 0.5)
 INFO_QUALITY = 1.0
