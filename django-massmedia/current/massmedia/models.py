@@ -84,6 +84,14 @@ def parse_metadata(path):
             data[key] = value
     return data
 
+def relpath(path, reldir):
+    path = os.path.normpath(path)
+    prelen = len(os.path.commonprefix((
+        os.path.normcase(path),
+        os.path.normcase(os.path.normpath(reldir)) + os.sep
+        )))
+    return path[prelen:]
+    
 class PickledObjectField(models.Field):
      """ Django snippet - http://www.djangosnippets.org/snippets/513/  """
      __metaclass__ = models.SubfieldBase
@@ -251,13 +259,14 @@ class Image(Media):
     def thumb(self):
         if self.file:
             thumbnail = '%s.thumb%s'%os.path.splitext(self.file.path)
-            thumburl = thumbnail[len(settings.MEDIA_ROOT)-1:]
+            thumburl = os.path.join(settings.MEDIA_URL, 
+                                    relpath(thumbnail, settings.MEDIA_ROOT))
             if not os.path.exists(thumbnail):
                 im = PilImage.open(self.file)
                 im.thumbnail(appsettings.THUMB_SIZE,PilImage.ANTIALIAS)
                 im.save(thumbnail,im.format)
-            return '<a href="%s"><img src="%s%s"/></a>'%\
-                        (self.get_absolute_url(),settings.MEDIA_URL,thumburl)
+            return '<a href="%s" title="%s"><img src="%s"/></a>'%\
+                    (self.get_absolute_url(),self.title,thumburl)
         elif self.external_url:
             return '<a href="%s"><img src="%s"/></a>'%\
                         (self.get_absolute_url(),self.get_absolute_url())
@@ -348,6 +357,10 @@ class Collection(models.Model):
                         model = Audio
                     elif ext in appsettings.FLASH_EXTS:
                         model = Flash
+                    elif ext in appsettings.LISTING_EXTS:
+                        model = Listing
+                    elif ext in appsettings.IGNORE_EXTS:
+                        continue
                     else:
                         raise TypeError, 'Unknown media extension %s'%ext
                     try:
