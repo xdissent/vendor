@@ -34,7 +34,7 @@ def libinclude(root):
 #
 # TIFF_ROOT = libinclude("/opt/tiff")
 
-FREETYPE_ROOT = None
+FREETYPE_ROOT = libinclude('/usr/X11')
 JPEG_ROOT = None
 TIFF_ROOT = None
 ZLIB_ROOT = None
