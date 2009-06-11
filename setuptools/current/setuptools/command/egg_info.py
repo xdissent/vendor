@@ -217,7 +217,7 @@ class egg_info(Command):
             data = f.read()
             f.close()
 
-            if data.startswith('9') or data.startswith('8'):
+            if data.startswith('10') or data.startswith('9') or data.startswith('8'):
                 data = map(str.splitlines,data.split('\n\x0c\n'))
                 del data[0][0]  # get rid of the '8' or '9'
                 dirurl = data[0][3]
