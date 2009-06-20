@@ -1,0 +1,14 @@
+{% load tagging_tags %}
+
+{#{% tagged_objects tag in massmedia.GrabVideo as videos %}#}
+
+
+{% if videos %}
+<ul>
+{% for media in videos %}
+    <li><b><a href="{{ media.get_absolute_url }}">{{ media }}</a></b><br><blockquote>{{ media.render_template }}</blockquote></li>
+{% endfor %}
+</ul>
+{% else %}
+No media found
+{% endif %}

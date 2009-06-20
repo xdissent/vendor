@@ -1,7 +1,7 @@
 from django import template
 from django.conf import settings
 from django.contrib.contenttypes.models import ContentType
-from massmedia.models import VoxantVideo, CollectionRelation
+from massmedia.models import GrabVideo, CollectionRelation
 
 register = template.Library()
 
@@ -14,14 +14,15 @@ class MassMediaNode(template.Node):
         self.args[0] = context.get(self.args[0],self.args[0])
         if isinstance(self.args[0], basestring):
             try:
-                self.args[0] = VoxantVideo.objects.get(slug=self.args[0])
-            except VoxantVideo.DoesNotExist:
+                self.args[0] = GrabVideo.objects.get(slug=self.args[0])
+            except GrabVideo.DoesNotExist:
                 return ''
         return self.args[0].get_template().render(
             template.RequestContext(context['request'], {
                 'media':self.args[0],
             })
         )
+        
 def show_media(parser, token):
     return MassMediaNode(*token.contents.split()[1:])
     

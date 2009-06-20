@@ -1,0 +1,2904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos type="array">
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kob_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:48:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>432</provider-id>
+  <title><![CDATA[Pinpoint 4 Weather Forecast]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KOB.com New Mexico]]></source-name>
+  <external-id><![CDATA[071000200905201508_000325p6000505p7]]></external-id>
+  <id type='integer'>3701576</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kob/2009/05/20/071000200905201508_000325p6000505p7_preview.jpg]]></preview-url>
+  <summary><![CDATA[Pinpoint 4 Weather Forecast]]></summary>
+  <provider-name><![CDATA[KOB.com New Mexico]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kob_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 KOB.com]]></copyright>
+  <out-time type='integer'>100152</out-time>
+  <originated-at type='datetime'>2009-05-20T13:41:05Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>100152</duration>
+  <source-id type='integer'>432</source-id>
+  <keywords><![CDATA[Albuquerque, NM, NEW MEXICO, KOB, NM State Stories, Local News, Pinpoint 4 Weather Forecast]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kob/2009/05/20/071000200905201508_000325p6000505p7_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:48:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:48:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>15</provider-id>
+  <title><![CDATA[Annual inflation rate eases to 0.4% in April]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[CBC]]></source-name>
+  <external-id><![CDATA[inflation-rate_taruc-inflation090520_640x480]]></external-id>
+  <id type='integer'>3701575</id>
+  <categories>
+    <category><![CDATA[Business]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/taruc-inflation090520_640x480.jpg]]></preview-url>
+  <summary><![CDATA[Annual inflation rate eases to 0.4% in April]]></summary>
+  <provider-name><![CDATA[CBC]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[Copyright (c) CBC 2009]]></copyright>
+  <out-time type='integer'>221074</out-time>
+  <originated-at type='datetime'>2009-05-20T11:21:43Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>221074</duration>
+  <source-id type='integer'>15</source-id>
+  <keywords><![CDATA[inflation consumer price index]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/taruc-inflation090520_96x72.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:48:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:48:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>15</provider-id>
+  <title><![CDATA[Father of Tori Stafford says arrests made in girl's disappearance]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[CBC]]></source-name>
+  <external-id><![CDATA[tori-stafford_koksal-tori090520_640x480]]></external-id>
+  <id type='integer'>3701574</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/koksal-tori090520_640x480.jpg]]></preview-url>
+  <summary><![CDATA[Father of Tori Stafford says arrests made in girl's disappearance]]></summary>
+  <provider-name><![CDATA[CBC]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[Copyright (c) CBC 2009]]></copyright>
+  <out-time type='integer'>201351</out-time>
+  <originated-at type='datetime'>2009-05-20T12:10:34Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>201351</duration>
+  <source-id type='integer'>15</source-id>
+  <keywords><![CDATA[victoria stafford tori stafford opp woodstock rodney stafford]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/koksal-tori090520_96x72.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:48:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:48:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[Iran tests new missile, Israel within range]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Video Plus]]></source-name>
+  <external-id><![CDATA[0520dvs_iran_missile_test]]></external-id>
+  <id type='integer'>3701573</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_iran_missile_test_400x300.jpg]]></preview-url>
+  <summary><![CDATA[Iranian President Mahmoud Ahmadinejad says his country test-fired a new advanced missile Wednesday with a range capable of reaching Israel and U.S. Mideast bases. (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>63869</out-time>
+  <originated-at type='datetime'>2009-05-20T13:35:57Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>63869</duration>
+  <source-id type='integer'>113</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_iran_missile_test_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:48:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:42:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[DPS Troopers Investigate Fiery Fatal Crash]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KWTX - Waco, TX]]></source-name>
+  <external-id><![CDATA[3779886]]></external-id>
+  <id type='integer'>3701572</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kwtx/2009/05/20/3779886_preview.jpg]]></preview-url>
+  <summary><![CDATA[DPS Troopers Investigate Fiery Fatal Crash Wed, 20 May 2009 09:39:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kwtx.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KWTX.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>224456</out-time>
+  <originated-at type='datetime'>2009-05-20T09:39:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>224456</duration>
+  <source-id type='integer'>451</source-id>
+  <keywords><![CDATA[Waco, TX, TEXAS, kwtx, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kwtx/2009/05/20/3779886_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:42:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:32:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Blackhawks Fall in Game 2]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WMAQ Chicago NBC 5]]></source-name>
+  <external-id><![CDATA[1128794926]]></external-id>
+  <id type='integer'>3701571</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128794926_preview.jpg]]></preview-url>
+  <summary><![CDATA[Perhaps no one feels worse over Tuesday's loss than defenseman Brian Campbell, whose turnover led to the Red Wings' winning goal in OT.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wmaq_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>76289</out-time>
+  <originated-at type='datetime'>2009-05-20T11:44:27Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>76289</duration>
+  <source-id type='integer'>348</source-id>
+  <keywords><![CDATA[Chicago, IL, ILLINOIS, wmaq, NBC Universal, wmaq, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128794926_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:32:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/growingwisdom_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:48:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>304</provider-id>
+  <title><![CDATA[Edging The Garden With Perfection]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Growing Wisdom]]></source-name>
+  <external-id><![CDATA[451]]></external-id>
+  <id type='integer'>3701570</id>
+  <categories>
+    <category><![CDATA[Learning]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/growingwisdom/2009/05/20/451_preview.jpg]]></preview-url>
+  <summary><![CDATA[Keeping a crisp edge on the garden border is an important part of the garden. By creating a unique edge of stone the gardens 'pop' out of the background. My edge is comprised of 1 1/2" river stone. I have a border that is 6-8" wide and up to 4" deep. This border has a landscape fabric underneath the stone to prevent weeds and to prevent the stones from going into the earth. The stones look great cleaned and will give your garden that crisp edge so ...]]></summary>
+  <provider-name><![CDATA[Growing Wisdom]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/growingwisdom_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 GrowingWisdom.com]]></copyright>
+  <out-time type='integer'>72505</out-time>
+  <originated-at type='datetime'>2009-05-20T05:00:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>72505</duration>
+  <source-id type='integer'>304</source-id>
+  <keywords><![CDATA[voxGardening, voxGardening, voxGardening, voxGardening, voxGardening]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/growingwisdom/2009/05/20/451_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:32:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/chikii_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:32:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>358</provider-id>
+  <title><![CDATA[Get Your Mojo Back]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[ChiKiiTV]]></source-name>
+  <external-id><![CDATA[daily_052009]]></external-id>
+  <id type='integer'>3701569</id>
+  <categories>
+    <category><![CDATA[Life and Leisure]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/chikii_tv/2009/05/20/daily_052009_preview.jpg]]></preview-url>
+  <summary><![CDATA[The Mojo Coach, Debi Silber, joins Shay Pausa in today's Daily Dish on SheKnows.com, and shows us how to get our mojo back!]]></summary>
+  <provider-name><![CDATA[ChiKiiTV]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/chikii_logo.jpg]]></source-icon>
+  <copyright><![CDATA[Copyright (2009) ChiKiiTV Media & Productions]]></copyright>
+  <out-time type='integer'>213733</out-time>
+  <originated-at type='datetime'>2009-05-20T13:30:27Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>213733</duration>
+  <source-id type='integer'>358</source-id>
+  <keywords><![CDATA[Women, Shay Pausa, Daily Dish, SheKnows.com, mojo, moms health, Debi Silber, the Mojo Coach, Life]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/chikii_tv/2009/05/20/daily_052009_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:32:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:28:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Saving You Money: Guilt-Free Shopping Preview]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KBTX - Bryan, TX]]></source-name>
+  <external-id><![CDATA[3779800]]></external-id>
+  <id type='integer'>3701568</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kbtx/2009/05/20/3779800_preview.jpg]]></preview-url>
+  <summary><![CDATA[Saving You Money: Guilt-Free Shopping Preview Wed, 20 May 2009 09:19:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kbtx.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KBTX.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>131263</out-time>
+  <originated-at type='datetime'>2009-05-20T13:19:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>131263</duration>
+  <source-id type='integer'>446</source-id>
+  <keywords><![CDATA[Bryan, TX, TEXAS, kbtx, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kbtx/2009/05/20/3779800_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:28:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:22:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Webcast Headlines 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WMTV - Madison, WI]]></source-name>
+  <external-id><![CDATA[3779772]]></external-id>
+  <id type='integer'>3701567</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wmtv/2009/05/20/3779772_preview.jpg]]></preview-url>
+  <summary><![CDATA[Webcast Headlines 5/20/09 Wed, 20 May 2009 09:11:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc15.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2003 - 2009 WorldNow and WMTV. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>116532</out-time>
+  <originated-at type='datetime'>2009-05-20T13:11:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>116532</duration>
+  <source-id type='integer'>463</source-id>
+  <keywords><![CDATA[Madison, WI, WISCONSIN, wmtv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wmtv/2009/05/20/3779772_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:22:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:22:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[House Set to Pass Credit Card Bill Today]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIBW - Topeka, KS]]></source-name>
+  <external-id><![CDATA[3779817]]></external-id>
+  <id type='integer'>3701566</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779817_preview.jpg]]></preview-url>
+  <summary><![CDATA[House Set to Pass Credit Card Bill Today Wed, 20 May 2009 09:19:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wibw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIBW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>85284</out-time>
+  <originated-at type='datetime'>2009-05-20T13:19:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>85284</duration>
+  <source-id type='integer'>442</source-id>
+  <keywords><![CDATA[Topeka, KS, KANSAS, wibw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779817_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:22:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:18:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Bar Fight]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WMAQ Chicago NBC 5]]></source-name>
+  <external-id><![CDATA[1128828626]]></external-id>
+  <id type='integer'>3701565</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128828626_preview.jpg]]></preview-url>
+  <summary><![CDATA[Lt. Tim Murphy of the Calument Police Dept explains what happened in a Bar fight that turned to three people shot, two fatal.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wmaq_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>41129</out-time>
+  <originated-at type='datetime'>2009-05-20T13:10:28Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>41129</duration>
+  <source-id type='integer'>348</source-id>
+  <keywords><![CDATA[Chicago, IL, ILLINOIS, wmaq, NBC Universal, wmaq, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128828626_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:18:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:18:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[AM Stormteam Weathercast, 5/20/2009]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Newschannel 34 Binghampton]]></source-name>
+  <external-id><![CDATA[19243]]></external-id>
+  <id type='integer'>3701564</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wbgh/2009/05/20/19243_preview.jpg]]></preview-url>
+  <summary><![CDATA[Binghampton, NY -- AM Stormteam Weathercast, 5/20/2009]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wbgh_logo.gif]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>90408</out-time>
+  <originated-at type='datetime'>2009-05-20T13:15:51Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>90408</duration>
+  <source-id type='integer'>321</source-id>
+  <keywords><![CDATA[Binghampton, NY, NEW YORK, WBGH, Inergize Digital Media, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wbgh/2009/05/20/19243_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:18:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:18:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[AM Stormteam Forecast, 5/20/2009]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Newschannel 34 Binghampton]]></source-name>
+  <external-id><![CDATA[19245]]></external-id>
+  <id type='integer'>3701563</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wbgh/2009/05/20/19245_preview.jpg]]></preview-url>
+  <summary><![CDATA[Binghampton, NY -- AM Stormteam Forecast, 5/20/2009]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wbgh_logo.gif]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>61621</out-time>
+  <originated-at type='datetime'>2009-05-20T13:15:47Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>61621</duration>
+  <source-id type='integer'>321</source-id>
+  <keywords><![CDATA[Binghampton, NY, NEW YORK, WBGH, Inergize Digital Media, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wbgh/2009/05/20/19245_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:18:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:18:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[Swine flu spreads in Asia, Americas]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82274_TEN]]></external-id>
+  <id type='integer'>3701562</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82274_TEN.jpg]]></preview-url>
+  <summary><![CDATA[The number of worldwide swine flu infections surged past the 10,000 mark on Wednesday as the crisis escalated in the United States and Asia despite stringent government efforts to contain the virus. Should the World Health Organization bump its flu alert to its maximum level six, it could lead to stringent new measures around the globe. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>75800</out-time>
+  <originated-at type='datetime'>2009-05-20T13:09:57Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>75800</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82274_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:18:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:14:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[ShowBiz Minute: Jolie; Parker; Johnson]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Entertainment Extra]]></source-name>
+  <external-id><![CDATA[UK-SHOWBIZ-20090520EV]]></external-id>
+  <id type='integer'>3701561</id>
+  <categories>
+    <category><![CDATA[Entertainment]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_ent/2009/05/20/ent_UK-SHOWBIZ-20090520EV_400x300.jpg]]></preview-url>
+  <summary><![CDATA[Angelina Jolie attends child soldiers trial; Sarah Jessica Parker concerned for surrogate; Shawn Johnson wins 'Dancing With the Stars.' (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>65959</out-time>
+  <originated-at type='datetime'>2009-05-20T13:01:02Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>65959</duration>
+  <source-id type='integer'>117</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_ent/2009/05/20/ent_UK-SHOWBIZ-20090520EV_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:14:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:12:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[NY Hospital Lines: H1-N1 Check-ups]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIBW - Topeka, KS]]></source-name>
+  <external-id><![CDATA[3779755]]></external-id>
+  <id type='integer'>3701560</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779755_preview.jpg]]></preview-url>
+  <summary><![CDATA[NY Hospital Lines: H1-N1 Check-ups Wed, 20 May 2009 09:03:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wibw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIBW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>68104</out-time>
+  <originated-at type='datetime'>2009-05-20T13:03:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>68104</duration>
+  <source-id type='integer'>442</source-id>
+  <keywords><![CDATA[Topeka, KS, KANSAS, wibw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779755_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:12:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:08:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Four-Legged Beauties Get Second Chance]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WVIT Hartford NBC]]></source-name>
+  <external-id><![CDATA[1128816577]]></external-id>
+  <id type='integer'>3701559</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wvit/2009/05/20/1128816577_preview.jpg]]></preview-url>
+  <summary><![CDATA[Susan is one of about 20 volunteers at Second Chance Ranch, a non-profit, equine rescue that brings in horses, rehabilitates them then finds them permanent homes.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wvit_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>111281</out-time>
+  <originated-at type='datetime'>2009-05-20T12:37:20Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>111281</duration>
+  <source-id type='integer'>347</source-id>
+  <keywords><![CDATA[Hartford, CT, CONNECTICUT, wvit, NBC Universal, wvit, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wvit/2009/05/20/1128816577_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:08:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:08:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Gov. Parkinson in KC- Tuesday]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIBW - Topeka, KS]]></source-name>
+  <external-id><![CDATA[3779733]]></external-id>
+  <id type='integer'>3701558</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779733_preview.jpg]]></preview-url>
+  <summary><![CDATA[Gov. Parkinson in KC- Tuesday Wed, 20 May 2009 08:56:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wibw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIBW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>21078</out-time>
+  <originated-at type='datetime'>2009-05-20T12:56:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>21078</duration>
+  <source-id type='integer'>442</source-id>
+  <keywords><![CDATA[Topeka, KS, KANSAS, wibw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779733_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:08:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:08:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[NY Hospital Lines: H1-N1 Check-ups]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIBW - Topeka, KS]]></source-name>
+  <external-id><![CDATA[3779744]]></external-id>
+  <id type='integer'>3701557</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779744_preview.jpg]]></preview-url>
+  <summary><![CDATA[NY Hospital Lines: H1-N1 Check-ups Wed, 20 May 2009 08:59:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wibw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIBW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>19143</out-time>
+  <originated-at type='datetime'>2009-05-20T12:59:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>19143</duration>
+  <source-id type='integer'>442</source-id>
+  <keywords><![CDATA[Topeka, KS, KANSAS, wibw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wibw/2009/05/20/3779744_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:08:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:08:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[French wine makers see red over rose]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters Business]]></source-name>
+  <external-id><![CDATA[OVE54J75J]]></external-id>
+  <id type='integer'>3701556</id>
+  <categories>
+    <category><![CDATA[Business]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J75J_pre.jpg]]></preview-url>
+  <summary><![CDATA[EU plans to allow blended rose wine appear scandalous to French wine makers.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters Business]]></copyright>
+  <out-time type='integer'>123224</out-time>
+  <originated-at type='datetime'>2009-05-20T12:23:01Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>123224</duration>
+  <source-id type='integer'>200</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J75J_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:08:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:04:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Cold Case: MontCo. Woman's Murder Unsolved]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WRC Washington DC NBC]]></source-name>
+  <external-id><![CDATA[1128823213]]></external-id>
+  <id type='integer'>3701555</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wrc/2009/05/20/1128823213_preview.jpg]]></preview-url>
+  <summary><![CDATA[Few clues are helping officials solve the death of Vanessa Sosin.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wrc_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>166060</out-time>
+  <originated-at type='datetime'>2009-05-20T12:57:37Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>166060</duration>
+  <source-id type='integer'>346</source-id>
+  <keywords><![CDATA[Washington, DC, DISTRICT OF COLUMBIA, WASHINGTON DC, wrc, NBC Universal, wrc, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wrc/2009/05/20/1128823213_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:04:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:02:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[TAXI VS BIKE]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WMAQ Chicago NBC 5]]></source-name>
+  <external-id><![CDATA[1128821119]]></external-id>
+  <id type='integer'>3701554</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128821119_preview.jpg]]></preview-url>
+  <summary><![CDATA[A bicyclist is in critical condition after being struck by a taxicab Tuesday night outside of Grant Park. The taxi was heading north on Columbus when it struck the bicyclist.The diver was said to have "had the right of way" and no citations were issued against him.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wmaq_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>35251</out-time>
+  <originated-at type='datetime'>2009-05-20T12:50:29Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>35251</duration>
+  <source-id type='integer'>348</source-id>
+  <keywords><![CDATA[Chicago, IL, ILLINOIS, wmaq, NBC Universal, wmaq, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wmaq/2009/05/20/1128821119_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:02:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:02:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[WTAP News @ Your Desk!]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTAP - Parkersburg, WV]]></source-name>
+  <external-id><![CDATA[3779737]]></external-id>
+  <id type='integer'>3701553</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779737_preview.jpg]]></preview-url>
+  <summary><![CDATA[WTAP News @ Your Desk! Wed, 20 May 2009 08:55:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtap.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTAP.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>207227</out-time>
+  <originated-at type='datetime'>2009-05-20T12:55:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>207227</duration>
+  <source-id type='integer'>469</source-id>
+  <keywords><![CDATA[Parkersburg, WV, WEST VIRGINIA, wtap, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779737_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:02:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:02:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[Navy helicopter crashes into Pacific]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Video Plus]]></source-name>
+  <external-id><![CDATA[0520dvs_navy_helicopter_crash]]></external-id>
+  <id type='integer'>3701552</id>
+  <categories>
+    <category><![CDATA[US]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_navy_helicopter_crash_400x300.jpg]]></preview-url>
+  <summary><![CDATA[The Coast Guard says a Navy helicopter with five people aboard has crashed into the ocean 13 miles south of San Diego near the Coronado Islands. (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>36623</out-time>
+  <originated-at type='datetime'>2009-05-20T12:40:49Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>36623</duration>
+  <source-id type='integer'>113</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_navy_helicopter_crash_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T13:02:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:58:08Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Weather Today: Itching for 80]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAU Philadelphia NBC]]></source-name>
+  <external-id><![CDATA[1128821110]]></external-id>
+  <id type='integer'>3701551</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128821110_preview.jpg]]></preview-url>
+  <summary><![CDATA[Meteorologist Bill Henley says we're moving into 80-degree territory as the holiday weekend approaches.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcau_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>34343</out-time>
+  <originated-at type='datetime'>2009-05-20T12:50:08Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>34343</duration>
+  <source-id type='integer'>354</source-id>
+  <keywords><![CDATA[Philadelphia, PA, PENNSYLVANIA, wcau, NBC Universal, wcau, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128821110_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:58:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:58:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Money Matters]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KAKE - Wichita, KS]]></source-name>
+  <external-id><![CDATA[3779639]]></external-id>
+  <id type='integer'>3701550</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779639_preview.jpg]]></preview-url>
+  <summary><![CDATA[Money Matters Wed, 20 May 2009 08:41:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kake.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KAKE.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>107686</out-time>
+  <originated-at type='datetime'>2009-05-20T08:41:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>107686</duration>
+  <source-id type='integer'>445</source-id>
+  <keywords><![CDATA[Wichita, KS, KANSAS, kake, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779639_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:58:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:58:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Law Enforcement seeing more kids involved in crime]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WRDW - Augusta, GA]]></source-name>
+  <external-id><![CDATA[3779665]]></external-id>
+  <id type='integer'>3701549</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wrdw/2009/05/20/3779665_preview.jpg]]></preview-url>
+  <summary><![CDATA[Law Enforcement seeing more kids involved in crime Wed, 20 May 2009 08:47:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wrdw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WRDW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>155016</out-time>
+  <originated-at type='datetime'>2009-05-20T12:47:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>155016</duration>
+  <source-id type='integer'>466</source-id>
+  <keywords><![CDATA[Augusta, GA, GEORGIA, wrdw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wrdw/2009/05/20/3779665_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:58:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:58:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Tase Me, Bro]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WJHG - Panama City, FL]]></source-name>
+  <external-id><![CDATA[3779678]]></external-id>
+  <id type='integer'>3701548</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779678_preview.jpg]]></preview-url>
+  <summary><![CDATA[Tase Me, Bro Wed, 20 May 2009 08:48:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wjhg.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WJHG.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>53117</out-time>
+  <originated-at type='datetime'>2009-05-20T13:48:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>53117</duration>
+  <source-id type='integer'>461</source-id>
+  <keywords><![CDATA[Panama City, FL, FLORIDA, wjhg, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779678_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:58:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:58:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Bay High 2009 Graduation]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WJHG - Panama City, FL]]></source-name>
+  <external-id><![CDATA[3779694]]></external-id>
+  <id type='integer'>3701547</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779694_preview.jpg]]></preview-url>
+  <summary><![CDATA[Bay High 2009 Graduation Wed, 20 May 2009 08:51:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wjhg.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WJHG.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>48956</out-time>
+  <originated-at type='datetime'>2009-05-20T13:51:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>48956</duration>
+  <source-id type='integer'>461</source-id>
+  <keywords><![CDATA[Panama City, FL, FLORIDA, wjhg, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779694_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:58:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:54:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Protestors in Milwaukee for Rove Visit]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779680]]></external-id>
+  <id type='integer'>3701546</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779680_preview.jpg]]></preview-url>
+  <summary><![CDATA[Protestors in Milwaukee for Rove Visit Wed, 20 May 2009 08:46:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>32183</out-time>
+  <originated-at type='datetime'>2009-05-20T12:46:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>32183</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779680_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:54:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:54:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA["What's Happening Around Town"]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779688]]></external-id>
+  <id type='integer'>3701545</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779688_preview.jpg]]></preview-url>
+  <summary><![CDATA["What's Happening Around Town" Wed, 20 May 2009 08:48:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>83465</out-time>
+  <originated-at type='datetime'>2009-05-20T12:48:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>83465</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779688_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:54:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:09Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Daybreak May 20]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WHSV - Harrisonburg, VA]]></source-name>
+  <external-id><![CDATA[3779512]]></external-id>
+  <id type='integer'>3701544</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/whsv/2009/05/20/3779512_preview.jpg]]></preview-url>
+  <summary><![CDATA[Daybreak May 20 Wed, 20 May 2009 08:45:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/whsv.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WHSV.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>856319</out-time>
+  <originated-at type='datetime'>2009-05-20T12:45:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>856319</duration>
+  <source-id type='integer'>457</source-id>
+  <keywords><![CDATA[Harrisonburg, VA, VIRGINIA, whsv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/whsv/2009/05/20/3779512_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:09Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:08Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Wesley Williams - Quad Murder Suspect - Gets Evidence Motion Granted]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WJHG - Panama City, FL]]></source-name>
+  <external-id><![CDATA[3779640]]></external-id>
+  <id type='integer'>3701543</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779640_preview.jpg]]></preview-url>
+  <summary><![CDATA[Wesley Williams - Quad Murder Suspect - Gets Evidence Motion Granted Wed, 20 May 2009 08:42:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wjhg.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WJHG.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>109353</out-time>
+  <originated-at type='datetime'>2009-05-20T13:42:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>109353</duration>
+  <source-id type='integer'>461</source-id>
+  <keywords><![CDATA[Panama City, FL, FLORIDA, wjhg, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779640_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:08Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[This Week's Booklist]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779662]]></external-id>
+  <id type='integer'>3701542</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779662_preview.jpg]]></preview-url>
+  <summary><![CDATA[This Week's Booklist Wed, 20 May 2009 08:43:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>85263</out-time>
+  <originated-at type='datetime'>2009-05-20T12:43:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>85263</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779662_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[News Update 5/20]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KOLN - Lincoln, NE]]></source-name>
+  <external-id><![CDATA[3779672]]></external-id>
+  <id type='integer'>3701541</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/koln/2009/05/20/3779672_preview.jpg]]></preview-url>
+  <summary><![CDATA[News Update 5/20 Wed, 20 May 2009 08:42:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kolnkgin.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KOLN.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>30074</out-time>
+  <originated-at type='datetime'>2009-05-20T12:42:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>30074</duration>
+  <source-id type='integer'>449</source-id>
+  <keywords><![CDATA[Lincoln, NE, NEBRASKA, koln, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/koln/2009/05/20/3779672_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Lodi Schools Reopen After Flu Outbreak]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779674]]></external-id>
+  <id type='integer'>3701540</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779674_preview.jpg]]></preview-url>
+  <summary><![CDATA[Lodi Schools Reopen After Flu Outbreak Wed, 20 May 2009 08:44:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>41184</out-time>
+  <originated-at type='datetime'>2009-05-20T12:44:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>41184</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779674_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:52:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[Myanmar opens Suu Kyi trial to diplomats, media]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82268_TEN]]></external-id>
+  <id type='integer'>3701539</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82268_TEN.jpg]]></preview-url>
+  <summary><![CDATA[After two days of closed-door proceedings, Myanmar authorities have unexpectedly allowed reporters and diplomats to attend the trial of Aung San Suu Kyi Wednesday. The democracy icon and Nobel Peace Laureate faces up to five years in jail if convicted of charges of breaching her house arrest. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>110400</out-time>
+  <originated-at type='datetime'>2009-05-20T12:45:29Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>110400</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82268_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:52:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:48:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[On The Town 5-20-09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCTV - Tallahassee, FL]]></source-name>
+  <external-id><![CDATA[3779653]]></external-id>
+  <id type='integer'>3701538</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779653_preview.jpg]]></preview-url>
+  <summary><![CDATA[On The Town 5-20-09 Wed, 20 May 2009 08:42:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wctv.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WCTV.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>50664</out-time>
+  <originated-at type='datetime'>2009-05-20T12:42:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>50664</duration>
+  <source-id type='integer'>455</source-id>
+  <keywords><![CDATA[Tallahassee, FL, FLORIDA, wctv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779653_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:48:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:48:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>15</provider-id>
+  <title><![CDATA[Indonesian military plane crash kills 98]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[CBC]]></source-name>
+  <external-id><![CDATA[indonesia-hercules-plane-crash348_maas-indo-crash090520_640x480]]></external-id>
+  <id type='integer'>3701537</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/maas-indo-crash090520_640x480.jpg]]></preview-url>
+  <summary><![CDATA[Indonesian military plane crash kills 98]]></summary>
+  <provider-name><![CDATA[CBC]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/cbc_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[Copyright (c) CBC 2009]]></copyright>
+  <out-time type='integer'>156682</out-time>
+  <originated-at type='datetime'>2009-05-20T11:17:27Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>156682</duration>
+  <source-id type='integer'>15</source-id>
+  <keywords><![CDATA[indonesia military aircraft plane hercules java crash]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/cbc/2009/05/20/maas-indo-crash090520_96x72.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:48:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:11Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Cooking with Mark Cross 5-20-09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCTV - Tallahassee, FL]]></source-name>
+  <external-id><![CDATA[3779532]]></external-id>
+  <id type='integer'>3701536</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779532_preview.jpg]]></preview-url>
+  <summary><![CDATA[Cooking with Mark Cross 5-20-09 Wed, 20 May 2009 08:31:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wctv.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WCTV.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>235927</out-time>
+  <originated-at type='datetime'>2009-05-20T12:31:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>235927</duration>
+  <source-id type='integer'>455</source-id>
+  <keywords><![CDATA[Tallahassee, FL, FLORIDA, wctv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779532_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:11Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:10Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[In the Spotlight 5-20-09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCTV - Tallahassee, FL]]></source-name>
+  <external-id><![CDATA[3779537]]></external-id>
+  <id type='integer'>3701535</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779537_preview.jpg]]></preview-url>
+  <summary><![CDATA[In the Spotlight 5-20-09 Wed, 20 May 2009 08:32:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wctv.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WCTV.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>185656</out-time>
+  <originated-at type='datetime'>2009-05-20T12:32:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>185656</duration>
+  <source-id type='integer'>455</source-id>
+  <keywords><![CDATA[Tallahassee, FL, FLORIDA, wctv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wctv/2009/05/20/3779537_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:10Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:09Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Morning Weather Update]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KAKE - Wichita, KS]]></source-name>
+  <external-id><![CDATA[3779623]]></external-id>
+  <id type='integer'>3701534</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779623_preview.jpg]]></preview-url>
+  <summary><![CDATA[Morning Weather Update Wed, 20 May 2009 08:36:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kake.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KAKE.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>156111</out-time>
+  <originated-at type='datetime'>2009-05-20T08:36:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>156111</duration>
+  <source-id type='integer'>445</source-id>
+  <keywords><![CDATA[Wichita, KS, KANSAS, kake, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779623_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:09Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:08Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Kenosha Resolution Opposes Chrysler Shutdown]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779629]]></external-id>
+  <id type='integer'>3701533</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779629_preview.jpg]]></preview-url>
+  <summary><![CDATA[Kenosha Resolution Opposes Chrysler Shutdown Wed, 20 May 2009 08:31:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>37685</out-time>
+  <originated-at type='datetime'>2009-05-20T12:31:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>37685</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779629_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:08Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:08Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Wichita Business Journal - Wednesday]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KAKE - Wichita, KS]]></source-name>
+  <external-id><![CDATA[3779630]]></external-id>
+  <id type='integer'>3701532</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779630_preview.jpg]]></preview-url>
+  <summary><![CDATA[Wichita Business Journal - Wednesday Wed, 20 May 2009 08:37:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kake.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KAKE.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>41714</out-time>
+  <originated-at type='datetime'>2009-05-20T08:37:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>41714</duration>
+  <source-id type='integer'>445</source-id>
+  <keywords><![CDATA[Wichita, KS, KANSAS, kake, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779630_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Wednesday Morning Web Weather]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KXII - Sherman, TX]]></source-name>
+  <external-id><![CDATA[3779631]]></external-id>
+  <id type='integer'>3701531</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kxii/2009/05/20/3779631_preview.jpg]]></preview-url>
+  <summary><![CDATA[Wednesday Morning Web Weather Wed, 20 May 2009 08:35:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kxii.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KXII.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>66773</out-time>
+  <originated-at type='datetime'>2009-05-20T12:35:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>66773</duration>
+  <source-id type='integer'>443</source-id>
+  <keywords><![CDATA[Sherman, TX, TEXAS, kxii, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kxii/2009/05/20/3779631_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Morning Top Stories - Wednesday]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[KAKE - Wichita, KS]]></source-name>
+  <external-id><![CDATA[3779634]]></external-id>
+  <id type='integer'>3701530</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779634_preview.jpg]]></preview-url>
+  <summary><![CDATA[Morning Top Stories - Wednesday Wed, 20 May 2009 08:38:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/kake.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and KAKE.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>43912</out-time>
+  <originated-at type='datetime'>2009-05-20T08:38:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>43912</duration>
+  <source-id type='integer'>445</source-id>
+  <keywords><![CDATA[Wichita, KS, KANSAS, kake, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/kake/2009/05/20/3779634_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Steven "Rambo" Thompson Arrested]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779648]]></external-id>
+  <id type='integer'>3701529</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779648_preview.jpg]]></preview-url>
+  <summary><![CDATA[Steven "Rambo" Thompson Arrested Wed, 20 May 2009 08:38:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>63099</out-time>
+  <originated-at type='datetime'>2009-05-20T12:38:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>63099</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779648_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:42:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[300 Dogs Seized in Richland County]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779656]]></external-id>
+  <id type='integer'>3701528</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779656_preview.jpg]]></preview-url>
+  <summary><![CDATA[300 Dogs Seized in Richland County Wed, 20 May 2009 08:39:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>42619</out-time>
+  <originated-at type='datetime'>2009-05-20T12:39:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>42619</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779656_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:42:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:38:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[M&I Banks Raising Money]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779608]]></external-id>
+  <id type='integer'>3701527</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779608_preview.jpg]]></preview-url>
+  <summary><![CDATA[M&I Banks Raising Money Wed, 20 May 2009 08:27:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>45153</out-time>
+  <originated-at type='datetime'>2009-05-20T12:27:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>45153</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779608_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:38:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:38:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[23 ToGo am Webcast]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIFR - Rockford, IL]]></source-name>
+  <external-id><![CDATA[3779617]]></external-id>
+  <id type='integer'>3701526</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wifr/2009/05/20/3779617_preview.jpg]]></preview-url>
+  <summary><![CDATA[23 ToGo am Webcast Wed, 20 May 2009 08:26:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wifr.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIFR.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>110801</out-time>
+  <originated-at type='datetime'>2009-05-20T12:26:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>110801</duration>
+  <source-id type='integer'>458</source-id>
+  <keywords><![CDATA[Rockford, IL, ILLINOIS, wifr, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wifr/2009/05/20/3779617_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:38:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:38:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Quinlan's Equipment Losing GM Line]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779621]]></external-id>
+  <id type='integer'>3701525</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779621_preview.jpg]]></preview-url>
+  <summary><![CDATA[Quinlan's Equipment Losing GM Line Wed, 20 May 2009 08:29:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>26293</out-time>
+  <originated-at type='datetime'>2009-05-20T12:29:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>26293</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779621_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:38:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:38:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[Porn stars pose for cameras at Cannes]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82222_TEN]]></external-id>
+  <id type='integer'>3701524</id>
+  <categories>
+    <category><![CDATA[Entertainment]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82222_TEN.jpg]]></preview-url>
+  <summary><![CDATA[Actresses from the adult film industry strutted down to the beach at Cannes on Wednesday to redirect some of the town's cinema media spotlight onto their industry. A porn film festival, Hot d'Or, used to be staged in Cannes simultaneously with the prestigious mainstream festival, but it was shut down in 2001, and the actresses called for its return. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>28960</out-time>
+  <originated-at type='datetime'>2009-05-20T12:30:56Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>28960</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82222_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:38:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:38:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Two Americans killed in Afghan blast]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters News]]></source-name>
+  <external-id><![CDATA[OVE54J77J]]></external-id>
+  <id type='integer'>3701523</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J77J_pre.jpg]]></preview-url>
+  <summary><![CDATA[A roadside blast killed two Americans in an attack on a U.S. military convoy on the outskirts of Kabul, officials and eye witnesses said.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters]]></copyright>
+  <out-time type='integer'>30986</out-time>
+  <originated-at type='datetime'>2009-05-20T11:52:15Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>30986</duration>
+  <source-id type='integer'>78</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J77J_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:38:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:32:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Webcast Weather Authority 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WMTV - Madison, WI]]></source-name>
+  <external-id><![CDATA[3779587]]></external-id>
+  <id type='integer'>3701522</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wmtv/2009/05/20/3779587_preview.jpg]]></preview-url>
+  <summary><![CDATA[Webcast Weather Authority 5/20/09 Wed, 20 May 2009 08:24:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc15.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2003 - 2009 WorldNow and WMTV. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>45721</out-time>
+  <originated-at type='datetime'>2009-05-20T12:24:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>45721</duration>
+  <source-id type='integer'>463</source-id>
+  <keywords><![CDATA[Madison, WI, WISCONSIN, wmtv, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wmtv/2009/05/20/3779587_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:32:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:32:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Attempted copper theft at Lexington apartment building]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WKYT - Lexington, KY]]></source-name>
+  <external-id><![CDATA[3779605]]></external-id>
+  <id type='integer'>3701521</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wkyt/2009/05/20/3779605_preview.jpg]]></preview-url>
+  <summary><![CDATA[Attempted copper theft at Lexington apartment building Wed, 20 May 2009 08:26:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wkyt.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2001 - 2009 WorldNow, WKYT, and WYMT. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>21990</out-time>
+  <originated-at type='datetime'>2009-05-20T12:26:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>21990</duration>
+  <source-id type='integer'>462</source-id>
+  <keywords><![CDATA[Lexington, KY, KENTUCKY, wkyt, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wkyt/2009/05/20/3779605_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:32:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:28:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Williams Wins Democratic Primary]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAU Philadelphia NBC]]></source-name>
+  <external-id><![CDATA[1128810798]]></external-id>
+  <id type='integer'>3701520</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128810798_preview.jpg]]></preview-url>
+  <summary><![CDATA[Seth Williams' victory speech focused on his vision for a safer city.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcau_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>49945</out-time>
+  <originated-at type='datetime'>2009-05-20T12:21:09Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>49945</duration>
+  <source-id type='integer'>354</source-id>
+  <keywords><![CDATA[Philadelphia, PA, PENNSYLVANIA, wcau, NBC Universal, wcau, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128810798_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:28:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:28:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Fitchburg Murder Suspect Found Dead]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779546]]></external-id>
+  <id type='integer'>3701519</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779546_preview.jpg]]></preview-url>
+  <summary><![CDATA[Fitchburg Murder Suspect Found Dead Wed, 20 May 2009 08:19:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>21541</out-time>
+  <originated-at type='datetime'>2009-05-20T12:19:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>21541</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779546_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:28:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:28:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Siblings Found Dead in Township of Gillett]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779553]]></external-id>
+  <id type='integer'>3701518</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779553_preview.jpg]]></preview-url>
+  <summary><![CDATA[Siblings Found Dead in Township of Gillett Wed, 20 May 2009 08:20:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>45351</out-time>
+  <originated-at type='datetime'>2009-05-20T12:20:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>45351</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779553_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:28:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:28:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Public Hearing Schedule Set For The Port St. Joe City Manager]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WJHG - Panama City, FL]]></source-name>
+  <external-id><![CDATA[3779582]]></external-id>
+  <id type='integer'>3701517</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779582_preview.jpg]]></preview-url>
+  <summary><![CDATA[Public Hearing Schedule Set For The Port St. Joe City Manager Wed, 20 May 2009 08:25:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wjhg.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WJHG.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>72273</out-time>
+  <originated-at type='datetime'>2009-05-20T13:25:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>72273</duration>
+  <source-id type='integer'>461</source-id>
+  <keywords><![CDATA[Panama City, FL, FLORIDA, wjhg, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wjhg/2009/05/20/3779582_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:28:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:22:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Police investigate armed robbery in West Knoxville]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WVLT - Knoxville, TN]]></source-name>
+  <external-id><![CDATA[3779520]]></external-id>
+  <id type='integer'>3701516</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wvlt/2009/05/20/3779520_preview.jpg]]></preview-url>
+  <summary><![CDATA[Police investigate armed robbery in West Knoxville Wed, 20 May 2009 08:16:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wvlt.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2001 - 2009 WorldNow and WVLT VOLUNTEER TV,a property of Gray Television, Inc.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>23596</out-time>
+  <originated-at type='datetime'>2009-05-20T12:16:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>23596</duration>
+  <source-id type='integer'>472</source-id>
+  <keywords><![CDATA[Knoxville, TN, TENNESSEE, wvlt, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wvlt/2009/05/20/3779520_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:22:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:22:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Today's Weather - May 20th]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTOK - Meridian, MS]]></source-name>
+  <external-id><![CDATA[3779558]]></external-id>
+  <id type='integer'>3701515</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtok/2009/05/20/3779558_preview.jpg]]></preview-url>
+  <summary><![CDATA[Today's Weather - May 20th Wed, 20 May 2009 08:12:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtok.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTOK.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>58927</out-time>
+  <originated-at type='datetime'>2009-05-20T08:12:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>58927</duration>
+  <source-id type='integer'>470</source-id>
+  <keywords><![CDATA[Meridian, MS, MISSISSIPPI, wtok, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtok/2009/05/20/3779558_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:22:04Z</created-at>
+</video>
+<video>
+  <in-time></in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/washington_times.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:18:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>420</provider-id>
+  <title><![CDATA[Morning Briefing, May 20]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Washington Times]]></source-name>
+  <external-id><![CDATA[morning_briefing_may_20_640x480]]></external-id>
+  <id type='integer'>3701514</id>
+  <categories>
+    <category><![CDATA[Politics]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/vcis/washington_times/2009/05/20/morning_briefing_may_20_preview.jpg]]></preview-url>
+  <summary><![CDATA[Jilly Badanes reports the top news stories of Wednesday, May 20, 2009.]]></summary>
+  <provider-name><![CDATA[Washington Times]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/washington_times.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 Washington Times]]></copyright>
+  <out-time></out-time>
+  <originated-at type='datetime'>2009-05-20T16:08:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration></duration>
+  <source-id type='integer'>420</source-id>
+  <keywords><![CDATA[US Israel Iran Obama Benjamin Netanyahu nuclear weapon working group body armor pentagon troops michael steele republican rnc]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/vcis/washington_times/2009/05/20/morning_briefing_may_20_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:18:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:18:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[Hungry vultures get daily 'five-star' feast in Spain]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82195_TEN]]></external-id>
+  <id type='integer'>3701513</id>
+  <categories>
+    <category><![CDATA[Science and Technology]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82195_TEN.jpg]]></preview-url>
+  <summary><![CDATA[From his mountaintop home, Jose Ramon Moragrega goes through the same daily routine -- feeding rabbits to vultures. His efforts are helping to sustain hundreds of the birds, whose existence is threatened by encroaching development. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>96920</out-time>
+  <originated-at type='datetime'>2009-05-20T12:10:11Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>96920</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82195_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:18:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:02:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Morning News Update for Wednesday, May 20th]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAV - Charlottesville, VA]]></source-name>
+  <external-id><![CDATA[3779474]]></external-id>
+  <id type='integer'>3701512</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcav/2009/05/20/3779474_preview.jpg]]></preview-url>
+  <summary><![CDATA[Morning News Update for Wednesday, May 20th Wed, 20 May 2009 07:53:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcav.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2005 WorldNow and WCAV.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>167334</out-time>
+  <originated-at type='datetime'>2009-05-20T11:53:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>167334</duration>
+  <source-id type='integer'>454</source-id>
+  <keywords><![CDATA[Charlottesville, VA, VIRGINIA, wcav, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcav/2009/05/20/3779474_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:02:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T12:02:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Volunteer TV News Update]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WVLT - Knoxville, TN]]></source-name>
+  <external-id><![CDATA[3779485]]></external-id>
+  <id type='integer'>3701511</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wvlt/2009/05/20/3779485_preview.jpg]]></preview-url>
+  <summary><![CDATA[Volunteer TV News Update Wed, 20 May 2009 07:54:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wvlt.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2001 - 2009 WorldNow and WVLT VOLUNTEER TV,a property of Gray Television, Inc.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>79915</out-time>
+  <originated-at type='datetime'>2009-05-20T11:54:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>79915</duration>
+  <source-id type='integer'>472</source-id>
+  <keywords><![CDATA[Knoxville, TN, TENNESSEE, wvlt, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wvlt/2009/05/20/3779485_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T12:02:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:00:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Route 35 Intersection Safety]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAZ - Huntington/Charleston, WV]]></source-name>
+  <external-id><![CDATA[3779471]]></external-id>
+  <id type='integer'>3701510</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaz/2009/05/20/3779471_preview.jpg]]></preview-url>
+  <summary><![CDATA[Route 35 Intersection Safety Wed, 20 May 2009 07:49:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaz.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000-2007, WorldNow and WSAZ. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>146863</out-time>
+  <originated-at type='datetime'>2009-05-20T12:49:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>146863</duration>
+  <source-id type='integer'>468</source-id>
+  <keywords><![CDATA[Huntington/Charleston, WV, WEST VIRGINIA, wsaz, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaz/2009/05/20/3779471_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:52:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:52:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[Cannes Excerpts: 'Wild Grass']]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82104_TEN]]></external-id>
+  <id type='integer'>3701509</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82104_TEN.jpg]]></preview-url>
+  <summary><![CDATA["Wild Grass" by French director Alain Resnais enters the running for the top prize at the Cannes film festival on Wednesday. The movie stars actors Sabine Azema and Andre Dussolier. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>32520</out-time>
+  <originated-at type='datetime'>2009-05-20T11:44:47Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>32520</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82104_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:52:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:52:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>4</provider-id>
+  <title><![CDATA[China's stimulus plan: electronics for the masses]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AFP]]></source-name>
+  <external-id><![CDATA[MMV82256_TEN]]></external-id>
+  <id type='integer'>3701508</id>
+  <categories>
+    <category><![CDATA[Business]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82256_TEN.jpg]]></preview-url>
+  <summary><![CDATA[Trade is expected to dominate a summit Wednesday between China and the EU. As international demand for its cheap exports diminishes, China has started a campaign to make electronic goods more accessible to the poor -- both to boost their standard of living, and to stimulate domestic consumption. ]]></summary>
+  <provider-name><![CDATA[AFP]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/afp_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 AFP]]></copyright>
+  <out-time type='integer'>113200</out-time>
+  <originated-at type='datetime'>2009-05-20T11:42:44Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>113200</duration>
+  <source-id type='integer'>4</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/afp/2009/05/20/MMV82256_TEN_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:52:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:42:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Green is Universal]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAU Philadelphia NBC]]></source-name>
+  <external-id><![CDATA[1128792763]]></external-id>
+  <id type='integer'>3701507</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128792763_preview.jpg]]></preview-url>
+  <summary><![CDATA[Nothing gets wasted on this week's Green is Universal when NBC 10's Terry Ruggels goes to the Four Seasons Hotel where trash turns to treasure in the garden.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcau_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>133302</out-time>
+  <originated-at type='datetime'>2009-05-20T11:37:47Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>133302</duration>
+  <source-id type='integer'>354</source-id>
+  <keywords><![CDATA[Philadelphia, PA, PENNSYLVANIA, wcau, NBC Universal, wcau, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128792763_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:42:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:38:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Lawyer Bill Merriman Discusses Steve Whitehair]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTAP - Parkersburg, WV]]></source-name>
+  <external-id><![CDATA[3779394]]></external-id>
+  <id type='integer'>3701506</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779394_preview.jpg]]></preview-url>
+  <summary><![CDATA[Lawyer Bill Merriman Discusses Steve Whitehair Wed, 20 May 2009 07:24:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtap.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTAP.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>248377</out-time>
+  <originated-at type='datetime'>2009-05-20T11:24:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>248377</duration>
+  <source-id type='integer'>469</source-id>
+  <keywords><![CDATA[Parkersburg, WV, WEST VIRGINIA, wtap, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779394_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:38:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:38:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Fight or Flight: Part 2]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTAP - Parkersburg, WV]]></source-name>
+  <external-id><![CDATA[3779425]]></external-id>
+  <id type='integer'>3701505</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779425_preview.jpg]]></preview-url>
+  <summary><![CDATA[Fight or Flight: Part 2 Wed, 20 May 2009 07:32:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtap.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTAP.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>220427</out-time>
+  <originated-at type='datetime'>2009-05-20T11:32:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>220427</duration>
+  <source-id type='integer'>469</source-id>
+  <keywords><![CDATA[Parkersburg, WV, WEST VIRGINIA, wtap, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779425_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:38:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:38:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Southern Gardening - May 20th, 2009]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTOK - Meridian, MS]]></source-name>
+  <external-id><![CDATA[3779447]]></external-id>
+  <id type='integer'>3701504</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtok/2009/05/20/3779447_preview.jpg]]></preview-url>
+  <summary><![CDATA[Southern Gardening - May 20th, 2009 Wed, 20 May 2009 07:30:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtok.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTOK.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>112687</out-time>
+  <originated-at type='datetime'>2009-05-20T07:30:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>112687</duration>
+  <source-id type='integer'>470</source-id>
+  <keywords><![CDATA[Meridian, MS, MISSISSIPPI, wtok, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtok/2009/05/20/3779447_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:38:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T13:00:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[West Virginia Turnpike Toll Hearing]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAZ - Huntington/Charleston, WV]]></source-name>
+  <external-id><![CDATA[3779414]]></external-id>
+  <id type='integer'>3701503</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaz/2009/05/20/3779414_preview.jpg]]></preview-url>
+  <summary><![CDATA[West Virginia Turnpike Toll Hearing Wed, 20 May 2009 07:22:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaz.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000-2007, WorldNow and WSAZ. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>155277</out-time>
+  <originated-at type='datetime'>2009-05-20T12:22:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>155277</duration>
+  <source-id type='integer'>468</source-id>
+  <keywords><![CDATA[Huntington/Charleston, WV, WEST VIRGINIA, wsaz, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaz/2009/05/20/3779414_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:34:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/howcast_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:32:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>428</provider-id>
+  <title><![CDATA[How To Prevent Swimmer's Ear]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Howcast]]></source-name>
+  <external-id><![CDATA[181474]]></external-id>
+  <id type='integer'>3701502</id>
+  <categories>
+    <category><![CDATA[Life and Leisure]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/howcast/2009/05/20/181474_preview.jpg]]></preview-url>
+  <summary><![CDATA[ Don't let this painful infection of the ear canal keep you out of the water! A few simple precautions can combat the excessive moisture that causes bacteria to fester. ]]></summary>
+  <provider-name><![CDATA[Howcast]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/howcast_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 Howcast, Inc.]]></copyright>
+  <out-time type='integer'>99000</out-time>
+  <originated-at type='datetime'>2009-05-20T11:05:08Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>99000</duration>
+  <source-id type='integer'>428</source-id>
+  <keywords><![CDATA[swimming, preventing, swimmer's, ear, precautions, caring, swimmers, water, sports, fitness, How-to, how-to, howto, voxHow-to]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/howcast/2009/05/20/181474_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:32:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:28:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Wake Up Call: Manoa Elementary]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAU Philadelphia NBC]]></source-name>
+  <external-id><![CDATA[1128787865]]></external-id>
+  <id type='integer'>3701501</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128787865_preview.jpg]]></preview-url>
+  <summary><![CDATA[A lullaby-esque Wake Up Call from the Manoa Elementary School.]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcau_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>56346</out-time>
+  <originated-at type='datetime'>2009-05-20T11:21:07Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>56346</duration>
+  <source-id type='integer'>354</source-id>
+  <keywords><![CDATA[Philadelphia, PA, PENNSYLVANIA, wcau, NBC Universal, wcau, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128787865_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:28:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:28:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[Tech Bytes 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254256]]></external-id>
+  <id type='integer'>3701500</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+    <category><![CDATA[Science and Technology]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254256_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- Tech Bytes 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>101667</out-time>
+  <originated-at type='datetime'>2009-05-20T11:25:43Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>101667</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254256_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:28:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:28:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[Chris Brandolino's Adventures in Australia 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254257]]></external-id>
+  <id type='integer'>3701499</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254257_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- Chris Brandolino's Adventures in Australia 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>272873</out-time>
+  <originated-at type='datetime'>2009-05-20T11:25:39Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>272873</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254257_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:28:03Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/howcast_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:22:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>428</provider-id>
+  <title><![CDATA[How To Ace a Telephone Interview and Get the Job]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Howcast]]></source-name>
+  <external-id><![CDATA[180143]]></external-id>
+  <id type='integer'>3701498</id>
+  <categories>
+    <category><![CDATA[Life and Leisure]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/howcast/2009/05/20/180143_preview.jpg]]></preview-url>
+  <summary><![CDATA[ Being interviewed for a job over the phone is very different from being grilled in person. To get the gig, you need to tweak your technique. ]]></summary>
+  <provider-name><![CDATA[Howcast]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/howcast_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 Howcast, Inc.]]></copyright>
+  <out-time type='integer'>158000</out-time>
+  <originated-at type='datetime'>2009-05-20T11:05:08Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>158000</duration>
+  <source-id type='integer'>428</source-id>
+  <keywords><![CDATA[interviewing, job, searching, hunting, careers, work, finding, phone, Telephone, acing, How-to, how-to, howto, voxHow-to]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/howcast/2009/05/20/180143_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:22:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:22:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Labor Contracts]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WILX - Lansing, MI]]></source-name>
+  <external-id><![CDATA[3779373]]></external-id>
+  <id type='integer'>3701497</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wilx/2009/05/20/3779373_preview.jpg]]></preview-url>
+  <summary><![CDATA[Labor Contracts Wed, 20 May 2009 07:15:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wilx.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WILX.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>132290</out-time>
+  <originated-at type='datetime'>2009-05-20T11:15:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>132290</duration>
+  <source-id type='integer'>459</source-id>
+  <keywords><![CDATA[Lansing, MI, MICHIGAN, wilx, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wilx/2009/05/20/3779373_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:22:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:22:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Customs seize record ivory haul]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters News]]></source-name>
+  <external-id><![CDATA[OVE54J73D]]></external-id>
+  <id type='integer'>3701496</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J73D_pre.jpg]]></preview-url>
+  <summary><![CDATA[Philippine customs officials seize the largest ever shipment of elephant tusks into the country, worth over 2 million U.S. dollars.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters]]></copyright>
+  <out-time type='integer'>104703</out-time>
+  <originated-at type='datetime'>2009-05-20T10:23:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>104703</duration>
+  <source-id type='integer'>78</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J73D_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:22:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:11Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[TMN List: Dog Friendly Cities 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254251]]></external-id>
+  <id type='integer'>3701495</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254251_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- TMN List: Dog Friendly Cities 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>102816</out-time>
+  <originated-at type='datetime'>2009-05-20T11:16:16Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>102816</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254251_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:11Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:10Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[National attention for Dinosaur BBQ 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254252]]></external-id>
+  <id type='integer'>3701494</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254252_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- National attention for Dinosaur BBQ 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>124420</out-time>
+  <originated-at type='datetime'>2009-05-20T11:16:13Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>124420</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254252_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:10Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:09Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[Proposed sex offender e-mail alert 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254253]]></external-id>
+  <id type='integer'>3701493</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254253_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- Proposed sex offender e-mail alert 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>82336</out-time>
+  <originated-at type='datetime'>2009-05-20T11:16:10Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>82336</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254253_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:09Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:08Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[Champions 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254254]]></external-id>
+  <id type='integer'>3701492</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254254_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- Champions 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>78418</out-time>
+  <originated-at type='datetime'>2009-05-20T11:16:05Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>78418</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254254_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:08Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/idm_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:07Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>238</provider-id>
+  <title><![CDATA[Money In Your Pocket Minute: Money Market Assets 5/20/09]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[News Channel 9 Syracuse]]></source-name>
+  <external-id><![CDATA[254255]]></external-id>
+  <id type='integer'>3701491</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254255_preview.jpg]]></preview-url>
+  <summary><![CDATA[Syracuse, NY - Top Stories of the day -- Money In Your Pocket Minute: Money Market Assets 5/20/09]]></summary>
+  <provider-name><![CDATA[Inergize Digital Media]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsyr_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[© Clear Channel Broadcasting, Inc.]]></copyright>
+  <out-time type='integer'>99133</out-time>
+  <originated-at type='datetime'>2009-05-20T11:16:01Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>99133</duration>
+  <source-id type='integer'>283</source-id>
+  <keywords><![CDATA[Syracuse, NY, NEW YORK, WSYR, Inergize Digital Media, Local News, Top Stories, Syracuse, NY]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsyr/2009/05/20/254255_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:07Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nbc-univ.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:06Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>345</provider-id>
+  <title><![CDATA[Wake Up Call: Gerry Butz]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WCAU Philadelphia NBC]]></source-name>
+  <external-id><![CDATA[1128784525]]></external-id>
+  <id type='integer'>3701490</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128784525_preview.jpg]]></preview-url>
+  <summary><![CDATA[Gerry Butz orders Philadelphia and her husband to wake up!]]></summary>
+  <provider-name><![CDATA[NBC Universal]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wcau_logo.jpg]]></source-icon>
+  <copyright><![CDATA[© 2009 NBC Universal, Inc.]]></copyright>
+  <out-time type='integer'>22413</out-time>
+  <originated-at type='datetime'>2009-05-20T11:12:26Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>22413</duration>
+  <source-id type='integer'>354</source-id>
+  <keywords><![CDATA[Philadelphia, PA, PENNSYLVANIA, wcau, NBC Universal, wcau, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wcau/2009/05/20/1128784525_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:06Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:18:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Aaron's am Forecast]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WIFR - Rockford, IL]]></source-name>
+  <external-id><![CDATA[3779376]]></external-id>
+  <id type='integer'>3701489</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wifr/2009/05/20/3779376_preview.jpg]]></preview-url>
+  <summary><![CDATA[Aaron's am Forecast Wed, 20 May 2009 07:05:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wifr.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WIFR.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>143032</out-time>
+  <originated-at type='datetime'>2009-05-20T11:05:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>143032</duration>
+  <source-id type='integer'>458</source-id>
+  <keywords><![CDATA[Rockford, IL, ILLINOIS, wifr, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wifr/2009/05/20/3779376_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T11:18:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:58:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Stress city leads to farm therapy]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters News]]></source-name>
+  <external-id><![CDATA[OVE54J73A]]></external-id>
+  <id type='integer'>3701488</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J73A_pre.jpg]]></preview-url>
+  <summary><![CDATA[Stressed out Tokyo city dwellers try to get in touch with their traditional farming roots.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters]]></copyright>
+  <out-time type='integer'>120167</out-time>
+  <originated-at type='datetime'>2009-05-20T10:21:55Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>120167</duration>
+  <source-id type='integer'>78</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J73A_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:58:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:56:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[Last Idols standing]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Entertainment Extra]]></source-name>
+  <external-id><![CDATA[US-IDOL-20090520EV]]></external-id>
+  <id type='integer'>3701487</id>
+  <categories>
+    <category><![CDATA[Entertainment]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_ent/2009/05/20/ent_US-IDOL-20090520EV_400x300.jpg]]></preview-url>
+  <summary><![CDATA[Kris Allen and Adam Lambert, the two final 'American Idol' contestants, make their last vocal impressions on stage, and discuss feeling like winners. (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>169325</out-time>
+  <originated-at type='datetime'>2009-05-20T10:41:46Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>169325</duration>
+  <source-id type='integer'>117</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_ent/2009/05/20/ent_US-IDOL-20090520EV_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:56:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:52:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Japan's farm school]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters Business]]></source-name>
+  <external-id><![CDATA[OVE54J76G]]></external-id>
+  <id type='integer'>3701486</id>
+  <categories>
+    <category><![CDATA[Business]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J76G_pre.jpg]]></preview-url>
+  <summary><![CDATA[A Tokyo university offers agricultural courses for stressed-out city-dwellers to get in touch with their traditional farming roots.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters Business]]></copyright>
+  <out-time type='integer'>114473</out-time>
+  <originated-at type='datetime'>2009-05-20T10:20:16Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>114473</duration>
+  <source-id type='integer'>200</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J76G_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:52:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:48:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[South Bend police find man with gunshot wounds to head, chest]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WNDU - South Bend, IN]]></source-name>
+  <external-id><![CDATA[3779317]]></external-id>
+  <id type='integer'>3701485</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wndu/2009/05/20/3779317_preview.jpg]]></preview-url>
+  <summary><![CDATA[South Bend police find man with gunshot wounds to head, chest Wed, 20 May 2009 06:38:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wndu.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000-2007, WorldNow and WNDU. All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>30166</out-time>
+  <originated-at type='datetime'>2009-05-20T06:38:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>30166</duration>
+  <source-id type='integer'>464</source-id>
+  <keywords><![CDATA[South Bend, IN, INDIANA, wndu, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wndu/2009/05/20/3779317_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:48:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:32:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Lee Ann's Wednesday Morning Forecast]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WSAW - Wausau, WI]]></source-name>
+  <external-id><![CDATA[3779304]]></external-id>
+  <id type='integer'>3701484</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779304_preview.jpg]]></preview-url>
+  <summary><![CDATA[Lee Ann's Wednesday Morning Forecast Wed, 20 May 2009 06:30:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wsaw.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WSAW.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>104240</out-time>
+  <originated-at type='datetime'>2009-05-20T10:30:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>104240</duration>
+  <source-id type='integer'>467</source-id>
+  <keywords><![CDATA[Wausau, WI, WISCONSIN, wsaw, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wsaw/2009/05/20/3779304_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:32:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T10:24:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[Husband arrested in Illinois family killing]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Video Plus]]></source-name>
+  <external-id><![CDATA[0520dvs_il_murder_arrest]]></external-id>
+  <id type='integer'>3701483</id>
+  <categories>
+    <category><![CDATA[US]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_il_murder_arrest_400x300.jpg]]></preview-url>
+  <summary><![CDATA[A southwestern Illinois man was charged Tuesday with strangling his wife and two young children earlier this month, shortly after investigators said they got new evidence allowing them to move ahead with the prosecution. (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>46106</out-time>
+  <originated-at type='datetime'>2009-05-20T10:13:15Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>46106</duration>
+  <source-id type='integer'>113</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_il_murder_arrest_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T10:24:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T09:58:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Myanmar opens Suu Kyi trial]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters News]]></source-name>
+  <external-id><![CDATA[OVE54J71D]]></external-id>
+  <id type='integer'>3701482</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J71D_pre.jpg]]></preview-url>
+  <summary><![CDATA[Army-ruled Myanmar opened the prison trial of pro-democracy leader Aung San Suu Kyi to a limited number of diplomats and journalists.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters]]></copyright>
+  <out-time type='integer'>77797</out-time>
+  <originated-at type='datetime'>2009-05-20T09:35:12Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>77797</duration>
+  <source-id type='integer'>78</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J71D_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:58:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nba_logo_lg.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T09:58:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>251</provider-id>
+  <title><![CDATA[The Daily Zap]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[NBA]]></source-name>
+  <external-id><![CDATA[nba_20090519_zap.nba]]></external-id>
+  <id type='integer'>3701481</id>
+  <categories>
+    <category><![CDATA[Sports]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/nba/2009/05/20/nba_20090519_zap.nba_preview.jpg]]></preview-url>
+  <summary><![CDATA[Check out all the action from Game 1 between the Nuggets and Lakers.]]></summary>
+  <provider-name><![CDATA[NBA]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/nba_logo_lg.jpg]]></source-icon>
+  <copyright><![CDATA[NBA Media Ventures, LLC]]></copyright>
+  <out-time type='integer'>93544</out-time>
+  <originated-at type='datetime'>2009-05-20T08:25:36Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>93544</duration>
+  <source-id type='integer'>251</source-id>
+  <keywords><![CDATA[NBA, Basketball, hoops]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/nba/2009/05/20/nba_20090519_zap.nba_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:58:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T11:00:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Advanced VIPIRcast for Wednesday, May 20 6:00AM]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WITN - Washington, NC]]></source-name>
+  <external-id><![CDATA[3779268]]></external-id>
+  <id type='integer'>3701480</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/witn/2009/05/20/3779268_preview.jpg]]></preview-url>
+  <summary><![CDATA[Advanced VIPIRcast for Wednesday, May 20 6:00AM Wed, 20 May 2009 05:49:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/witn.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WITN.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>197245</out-time>
+  <originated-at type='datetime'>2009-05-20T10:49:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>197245</duration>
+  <source-id type='integer'>460</source-id>
+  <keywords><![CDATA[Washington, NC, NORTH CAROLINA, witn, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/witn/2009/05/20/3779268_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:52:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/gray_tv_logo.jpg]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T09:28:05Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>441</provider-id>
+  <title><![CDATA[Little Hocking School Benefit]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[WTAP - Parkersburg, WV]]></source-name>
+  <external-id><![CDATA[3779251]]></external-id>
+  <id type='integer'>3701479</id>
+  <categories>
+    <category><![CDATA[Local]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779251_preview.jpg]]></preview-url>
+  <summary><![CDATA[Little Hocking School Benefit Wed, 20 May 2009 05:22:00 EST]]></summary>
+  <provider-name><![CDATA[Gray Television]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/wtap.jpg]]></source-icon>
+  <copyright><![CDATA[All content  Copyright 2000 - 2009 WorldNow and WTAP.  All Rights Reserved.For more information on this site, please read our Privacy Policy and Terms of Service.]]></copyright>
+  <out-time type='integer'>165890</out-time>
+  <originated-at type='datetime'>2009-05-20T09:22:00Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>165890</duration>
+  <source-id type='integer'>469</source-id>
+  <keywords><![CDATA[Parkersburg, WV, WEST VIRGINIA, wtap, Gray Television, Local News]]></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/wtap/2009/05/20/3779251_thumb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:28:05Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T09:28:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>91</provider-id>
+  <title><![CDATA[Body building the boom in Baghdad]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[AP Video Plus]]></source-name>
+  <external-id><![CDATA[0520dvs_baghdad_bodybuilding]]></external-id>
+  <id type='integer'>3701478</id>
+  <categories>
+    <category><![CDATA[World]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_baghdad_bodybuilding_400x300.jpg]]></preview-url>
+  <summary><![CDATA[Body building is starting to build a following in Baghdad. There are now 300 gyms and fitness centers open in the Iraqi capital. Before the U.S. Invasion in 2003, there were only 30. (May 20)]]></summary>
+  <provider-name><![CDATA[Associated Press]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/ap_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009  The Associated Press]]></copyright>
+  <out-time type='integer'>59010</out-time>
+  <originated-at type='datetime'>2009-05-20T09:18:22Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>59010</duration>
+  <source-id type='integer'>113</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/ap_vidplus/2009/05/20/vidplus_0520dvs_baghdad_bodybuilding_092x069.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:28:04Z</created-at>
+</video>
+<video>
+  <in-time type='integer'>0</in-time>
+  <status><![CDATA[not_reviewed]]></status>
+  <provider-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></provider-icon>
+  <updated-at type='datetime'>2009-05-20T09:22:04Z</updated-at>
+  <container-sequence></container-sequence>
+  <provider-id type='integer'>78</provider-id>
+  <title><![CDATA[Japan's farm school]]></title>
+  <container-id></container-id>
+  <source-name><![CDATA[Reuters Business]]></source-name>
+  <external-id><![CDATA[OVE54J6YA]]></external-id>
+  <id type='integer'>3701477</id>
+  <categories>
+    <category><![CDATA[Business]]></category>
+  </categories>
+  <preview-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J6YA_pre.jpg]]></preview-url>
+  <summary><![CDATA[A Tokyo university offers agricultural courses for stressed-out city-dwellers to get in touch with their traditional farming roots.]]></summary>
+  <provider-name><![CDATA[Reuters News]]></provider-name>
+  <source-icon><![CDATA[http://cache.thenewsroom.com/provider_graphics/reuters_logo_sm.gif]]></source-icon>
+  <copyright><![CDATA[© 2009 Reuters Business]]></copyright>
+  <out-time type='integer'>115779</out-time>
+  <originated-at type='datetime'>2009-05-20T08:54:35Z</originated-at>
+  <is-available type='boolean'>true</is-available>
+  <duration type='integer'>115779</duration>
+  <source-id type='integer'>200</source-id>
+  <keywords></keywords>
+  <thumbnail-url><![CDATA[http://cache.thenewsroom.com/reuters/2009/05/20/OVE54J6YA_tmb.jpg]]></thumbnail-url>
+  <created-at type='datetime'>2009-05-20T09:22:03Z</created-at>
+</video>
+</videos>

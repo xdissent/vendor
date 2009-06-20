@@ -1,6 +1,6 @@
 from django.contrib import admin
 from massmedia.models import Image,Video,Audio,Flash,Collection,\
-    CollectionRelation,MediaTemplate,VoxantVideo,Listing
+    CollectionRelation,MediaTemplate,GrabVideo,Document
 from django.contrib.contenttypes.models import ContentType
 from django.template.defaultfilters import slugify
 from massmedia import settings
@@ -51,9 +51,11 @@ class VideoAdmin(MediaAdmin,admin.ModelAdmin):
     fieldsets = MediaAdmin.fieldsets + ( ('Thumbnail',{'fields':('thumbnail',)}), )
     raw_id_fields = ('thumbnail',)
 
-class VoxantVideoAdmin(VideoAdmin):
-    list_display = ('asset_id','layout_id') + VideoAdmin.list_display
-    fieldsets = ( ('Voxant',{'fields':('asset_id','layout_id')}), )
+class GrabVideoAdmin(VideoAdmin):
+    search_fields = ('title','caption','keywords')
+    list_filter = VideoAdmin.list_filter + ('one_off_author',)
+    list_display = ('asset_id','layout_id','title','thumb','one_off_author','public','creation_date','categories')
+    fieldsets = ( ('Grab',{'fields':('asset_id','layout_id','keywords')}), )
     for fieldset in VideoAdmin.fieldsets:
         if fieldset[0] == 'Content':
             continue
@@ -61,7 +63,7 @@ class VoxantVideoAdmin(VideoAdmin):
     
 class AudioAdmin(MediaAdmin,admin.ModelAdmin): pass
 class FlashAdmin(MediaAdmin,admin.ModelAdmin): pass
-class ListingAdmin(MediaAdmin,admin.ModelAdmin): pass
+class DocumentAdmin(MediaAdmin,admin.ModelAdmin): pass
 
 class CollectionInline(GenericCollectionTabularInline):
     model = CollectionRelation
@@ -82,9 +84,10 @@ admin.site.register(Image, ImageAdmin)
 admin.site.register(Video, VideoAdmin)
 admin.site.register(Audio, AudioAdmin)
 admin.site.register(Flash, FlashAdmin)
-admin.site.register(VoxantVideo, VoxantVideoAdmin)
+admin.site.register(Document, DocumentAdmin)
+admin.site.register(GrabVideo, GrabVideoAdmin)
 admin.site.register(Listing, ListingAdmin)
 admin.site.register(CollectionRelation)
 
-if settings.TEMPLATE_MODE == settings.ADMIN:
+if settings.TEMPLATE_MODE == 0:
     admin.site.register(MediaTemplate)

@@ -26,15 +26,11 @@ try:
     iptc = 1
 except ImportError:
     iptc = 0
-    
+
 try:
-    # Try to use http://code.google.com/p/django-categories/
-    from categories.models import Category
+    from tagging.fields import TagField
 except ImportError:
-    # Otherwise use dummy category
-    class Category(models.Model):
-        name = models.CharField(max_length=150)
-        def __unicode__(self): return self.name
+    raise ImportError('You must have django-tagging installed!')
         
 try:
     import Image as PilImage
@@ -122,7 +118,7 @@ class PickledObjectField(models.Field):
              raise TypeError('Lookup type %s is not supported.' %  lookup_type)
 
 class Media(models.Model):
-    title = models.CharField(max_length=255,unique=True)
+    title = models.CharField(max_length=255)
     slug = models.SlugField(unique=True)
     creation_date = models.DateTimeField(auto_now_add=True)
     author = models.ForeignKey(User, blank=True, null=True, limit_choices_to={'is_staff':True})
@@ -131,7 +127,7 @@ class Media(models.Model):
     caption = models.TextField(blank=True)
     metadata = PickledObjectField(blank=True)
     sites = models.ManyToManyField(Site,related_name='%(class)s_sites')
-    categories = models.ManyToManyField(Category, blank=True)
+    categories = TagField(blank=True,null=True)
     reproduction_allowed = models.BooleanField("we have reproduction rights for this media", default=True)
     public = models.BooleanField(help_text="this media is publicly available", default=True)
     external_url = models.URLField(blank=True,null=True,help_text="If this URLField is set, the media will be pulled externally")
@@ -180,20 +176,20 @@ class Media(models.Model):
     def get_template(self):
         mime_type = self.get_mime_type()
         if self.widget_template:
-            if appsettings.TEMPLATE_MODE == appsettings.FILE_SYSTEM:
+            if appsettings.TEMPLATE_MODE == 1:
                 return get_template(self.widget_template)
             else:
                 return MediaTemplate.objects.get(name=self.widget_template).template()
         elif mime_type is None:
-            if appsettings.TEMPLATE_MODE == appsettings.FILE_SYSTEM:
-                if isinstance(self, VoxantVideo):
-                    return get_template('massmedia/voxant.html')
+            if appsettings.TEMPLATE_MODE == 1:
+                if isinstance(self, GrabVideo):
+                    return get_template('massmedia/grab.html')
                 else:
                     return get_template('massmedia/generic.html')
             else:
                 return MediaTemplate.objects.get(mimetype='').tempate()
         else:
-            if appsettings.TEMPLATE_MODE == appsettings.FILE_SYSTEM:
+            if appsettings.TEMPLATE_MODE == 1:
                 try:
                     return get_template('massmedia/%s.html'%mime_type)
                 except TemplateDoesNotExist:
@@ -259,10 +255,12 @@ class Image(Media):
     def thumb(self):
         if self.file:
             thumbnail = '%s.thumb%s'%os.path.splitext(self.file.path)
-            thumburl = os.path.join(settings.MEDIA_URL, 
-                                    relpath(thumbnail, settings.MEDIA_ROOT))
+            thumburl = thumbnail[len(settings.MEDIA_ROOT):]
             if not os.path.exists(thumbnail):
-                im = PilImage.open(self.file)
+                try:
+                    im = PilImage.open(self.file)
+                except:
+                    return ''
                 im.thumbnail(appsettings.THUMB_SIZE,PilImage.ANTIALIAS)
                 im.save(thumbnail,im.format)
             return '<a href="%s" title="%s"><img src="%s"/></a>'%\
@@ -270,6 +268,7 @@ class Image(Media):
         elif self.external_url:
             return '<a href="%s"><img src="%s"/></a>'%\
                         (self.get_absolute_url(),self.get_absolute_url())
+        return ''
     thumb.allow_tags = True
     thumb.short_description = 'Thumbnail'
     
@@ -288,12 +287,19 @@ class Video(Media):
     def absolute_url(self, format):
         return "%svideo/%s/%s" % format
 
-class VoxantVideo(Video):
-    asset_id = models.CharField(max_length=255,help_text='Voxant video asset ID (the `a` parameter)')
-    layout_id = models.CharField(max_length=255,help_text='Voxant video asset ID (the `m` parameter)')
+class GrabVideo(Video):
+    asset_id = models.CharField(max_length=255,help_text='Grab video asset ID (the `a` parameter)')
+    layout_id = models.CharField(max_length=255,help_text='Grab video asset ID (the `m` parameter)')
+    
+    keywords = TagField(null=True,blank=True)
+    
+    def save(self, *a, **kw):
+        if self.asset_id and len(self.asset_id) and not self.asset_id[0] in 'PV':
+            self.asset_id = 'V%s' % self.asset_id
+        super(GrabVideo, self).save(*a, **kw)
     
     def absolute_url(self, format):
-        return "%svoxantvideo/%s/%s" % format
+        return "%sgrabvideo/%s/%s" % format
     
 class Audio(Media):
     file = models.FileField(upload_to='audio/%Y/%b/%d', blank=True, null=True)
@@ -305,6 +311,10 @@ class Flash(Media):
     def absolute_url(self, format):
         return "%sflash/%s/%s" % format
     
+class Document(Media):
+    file = models.FileField(upload_to='docs/%Y/%b/%d', blank=True, null=True)
+    def absolute_url(self, format):
+        return "%sdocs/%s/%s" % format
    
 class Collection(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
@@ -315,7 +325,7 @@ class Collection(models.Model):
                         help_text='Select a .zip file of media to upload into a the Collection.')
     public = models.BooleanField(help_text="this collection is publicly available", default=True)
     sites = models.ManyToManyField(Site)
-    categories = models.ManyToManyField(Category, blank=True)
+    categories = TagField(null=True,blank=True)
     
     class Meta:
         ordering = ['-creation_date']
@@ -357,10 +367,11 @@ class Collection(models.Model):
                         model = Audio
                     elif ext in appsettings.FLASH_EXTS:
                         model = Flash
-                    elif ext in appsettings.LISTING_EXTS:
-                        model = Listing
+                    elif ext in appsettings.DOC_EXTS:
+                        model = Document
                     elif ext in appsettings.IGNORE_EXTS:
                         continue
+
                     else:
                         raise TypeError, 'Unknown media extension %s'%ext
                     try:
@@ -396,3 +407,14 @@ class MediaTemplate(models.Model):
     
     def template(self):
         return Template(self.content)
+
+# Ellington Extras
+if 'ellington.news' in settings.INSTALLED_APPS:
+    from ellington.news.parts.inlines import register_inline,ObjectInline
+    
+    register_inline('massmedia-grabvideo', ObjectInline('massmedia-grabvideo','MassMedia -- Grab Videos','massmedia','grabvideo','grabvideo'))
+    register_inline('massmedia-video', ObjectInline('massmedia-video','MassMedia -- Videos','massmedia','video','video'))
+    register_inline('massmedia-audio', ObjectInline('massmedia-audio','MassMedia -- Audios','massmedia','audio','audio'))
+    register_inline('massmedia-image', ObjectInline('massmedia-image','MassMedia -- Images','massmedia','image','image'))
+    register_inline('massmedia-flash', ObjectInline('massmedia-flash','MassMedia -- Flashes','massmedia','flash','flash'))
+    register_inline('massmedia-document', ObjectInline('massmedia-document','MassMedia -- Documents','massmedia','document','document'))
