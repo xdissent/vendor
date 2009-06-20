@@ -86,7 +86,6 @@ admin.site.register(Audio, AudioAdmin)
 admin.site.register(Flash, FlashAdmin)
 admin.site.register(Document, DocumentAdmin)
 admin.site.register(GrabVideo, GrabVideoAdmin)
-admin.site.register(Listing, ListingAdmin)
 admin.site.register(CollectionRelation)
 
 if settings.TEMPLATE_MODE == 0:
