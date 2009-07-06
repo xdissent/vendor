@@ -40,6 +40,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 - (NSWindow*) currentWindow;
 
+- (IBAction) toggleOnAllSpaces:(id) sender;
 - (void) setOnAllSpaces:(BOOL) afloat forWindow:(NSWindow*) c; // animated:(BOOL) animated;
 - (BOOL) isWindowOnAllSpaces:(NSWindow*) w;
 

@@ -22,6 +22,8 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 #define kAfloatTranslucentAlphaValue (0.7f)
 #define kAfloatMinimumAlphaValue (0.3f)
 #define kAfloatOverlayAlphaValue (0.4f)
+#define kAfloatNSPeriodicPeriod (0.01)
+#define kAfloatSnapMargin (20)
 
 #define kAfloatLastAlphaValueKey @"AfloatLastAlphaValue"
 #define kAfloatTrackingAreaKey @"AfloatTrackingArea"
@@ -170,6 +172,11 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 	[self setKeptAfloat:![self isWindowKeptAfloat:c] forWindow:c showBadgeAnimation:YES];
 }
 
+- (IBAction) toggleOnAllSpaces:(id) sender {
+	NSWindow* c = [self currentWindow];
+	[self setOnAllSpaces:![self isWindowOnAllSpaces:c] forWindow:c];
+}
+
 - (BOOL) validateMenuItem:(NSMenuItem*) item {
 	if ([item action] == @selector(toggleAlwaysOnTop:)) {
 		NSWindow* c = [self currentWindow];
@@ -178,6 +185,13 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 		else
 			[item setState:[self isWindowKeptAfloat:c]? NSOnState : NSOffState];
 		return c != nil;
+    } else if ([item action] == @selector(toggleOnAllSpaces:)) {
+        NSWindow* c = [self currentWindow];
+        if (!c)
+            [item setState:NSOffState];
+        else
+            [item setState:[self isWindowOnAllSpaces:c]? NSOnState : NSOffState];
+        return c != nil;
 	} else if ([item action] == @selector(showWindowFileInFinder:))
 		return [[self currentWindow] representedURL]? [[[self currentWindow] representedURL] isFileURL] : NO;
 	
@@ -462,10 +476,89 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 - (void) afloat_sendEvent:(NSEvent*) evt {
 	unsigned mods = [evt modifierFlags] & NSDeviceIndependentModifierFlagsMask;
-    NSPoint ori;
+    NSRect screenFrame;
 	NSRect frame;
     Afloat* hub = [Afloat sharedInstance];
 	NSWindow* wnd;
+    static int tracking = 0;
+    static NSPoint lastMouseLocation;
+    static NSRect lastFrame;
+    int wndLeft, wndRight, wndBottom, screenLeft, screenRight, screenBottom;
+    NSPoint mouseLocation;
+    int deltaX, deltaY;
+    
+    if ([evt type] == NSPeriodic) {
+        if (!(wnd = [hub currentWindow])) return; // is this necessary?
+
+        mouseLocation = [NSEvent mouseLocation];
+        deltaX = mouseLocation.x - lastMouseLocation.x;
+        deltaY = mouseLocation.y - lastMouseLocation.y;
+        lastMouseLocation = mouseLocation;
+        
+        frame = lastFrame;
+
+        if (tracking == 1) { // tracking left drag
+            frame = lastFrame;
+            frame.origin.x += deltaX;
+            frame.origin.y += deltaY;
+            lastFrame = frame;
+            
+        } else if (tracking == 2) { // tracking right drag
+            NSSize minSize = [wnd minSize];
+            frame = lastFrame;
+            
+            frame.size.width += deltaX;
+            frame.size.height -= deltaY;
+            frame.origin.y += deltaY;
+            lastFrame = frame;
+            
+            if (frame.size.width < minSize.width) {
+                frame.size.width = minSize.width;
+            }
+            if (frame.size.height < minSize.height) {
+                frame.size.height = minSize.height;
+                frame.origin.y -= deltaY;
+            }
+        }
+        
+        if (YES) { // should we snap?
+            wndLeft = frame.origin.x;
+            wndRight = frame.origin.x + frame.size.width;
+            wndBottom = frame.origin.y;
+            
+            screenFrame = [[NSScreen mainScreen] visibleFrame];
+            screenLeft = screenFrame.origin.x;
+            screenRight = screenFrame.origin.x + screenFrame.size.width;
+            screenBottom = screenFrame.origin.y;
+            
+            if (wndLeft < screenLeft + kAfloatSnapMargin && wndLeft > screenLeft - kAfloatSnapMargin) {
+                frame.origin.x = screenLeft;
+            }
+            
+            if (wndRight < screenRight + kAfloatSnapMargin && wndRight > screenRight - kAfloatSnapMargin) {
+                if (tracking == 1) {
+                    frame.origin.x = screenRight - frame.size.width;
+                } else {
+                    frame.size.width = screenRight - frame.origin.x;
+                }
+            }
+            
+            if (wndBottom < screenBottom + kAfloatSnapMargin && wndBottom > screenBottom - kAfloatSnapMargin) {
+                if (tracking == 2) {
+                    frame.size.height += frame.origin.y - screenBottom;
+                }
+                frame.origin.y = screenBottom;
+            }
+        }
+
+        [wnd setFrame:frame display:YES];
+        return;
+    }
+    
+    if (tracking != 0 && ([evt type] == NSLeftMouseUp || [evt type] == NSRightMouseUp)) {
+        [NSEvent stopPeriodicEvents];
+        tracking = 0;
+    }
     
     if (mods == (NSCommandKeyMask | NSControlKeyMask)) {
         
@@ -486,37 +579,26 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 				
             case NSLeftMouseDown:
 			case NSRightMouseDown:
+                if (!(wnd = [hub currentWindow])) return;
+                if ([evt type] == NSLeftMouseDown) {
+                    tracking = 1;
+                } else {
+                    tracking = 2;
+                }
+                lastMouseLocation = [NSEvent mouseLocation];
+                lastFrame = [wnd frame];
+                [NSEvent startPeriodicEventsAfterDelay:0 withPeriod:kAfloatNSPeriodicPeriod];
+                return; // filter it
+                
+                if (!(wnd = [hub currentWindow])) return;
+                tracking = 2;
+                lastMouseLocation = [NSEvent mouseLocation];
+                lastFrame = [wnd frame];
+                [NSEvent startPeriodicEventsAfterDelay:0 withPeriod:kAfloatNSPeriodicPeriod];
                 return; // filter it
                 
             case NSLeftMouseDragged:
-                if (!(wnd = [hub currentWindow])) return;
-				
-                ori = [wnd frame].origin;
-                ori.x += [evt deltaX];
-                ori.y -= [evt deltaY];
-                [wnd setFrameOrigin:ori];
-                return; // filter it once done
-				
-			case NSRightMouseDragged:
-                if ((wnd = [hub currentWindow]) && ([wnd styleMask] & NSResizableWindowMask)) {
-					NSSize minSize = [wnd minSize];
-					
-					frame = [wnd frame];
-					frame.size.width += [evt deltaX];
-					frame.size.height += [evt deltaY];
-					
-					if (frame.size.width < minSize.width)
-						frame.size.width = minSize.width;
-					
-					if (frame.size.height < minSize.height)
-						frame.size.height = minSize.height;
-					else
-						frame.origin.y -= [evt deltaY];
-					
-					[wnd setFrame:frame display:YES];
-					return; // filter it once done
-				}
-                
+			case NSRightMouseDragged: 
 			case NSLeftMouseUp:
 			case NSRightMouseUp:
 				return; // filter it
