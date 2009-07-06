@@ -1,0 +1,22 @@
+#!/bin/sh
+
+set -avx
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+cd "$MULTIVERSE"
+PROJECT_TEMP_DIR="$PROJECT_NAME"/TemporaryItems/Test
+mkdir -p "$PROJECT_TEMP_DIR"
+
+# should I hardcode "Debug" as the CI configuration? (Methinks yes.)
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Debug" \
+ MULTIVERSE="$MULTIVERSE" \
+ SYMROOT="$PROJECT_TEMP_DIR/Build" \
+ OBJROOT="$PROJECT_TEMP_DIR" \
+ build || exit 1

@@ -1,0 +1,49 @@
+#!/bin/sh
+
+set -avx
+
+IPHONE_PROVISIONING_PROFILE_APP_STORE="45C85CAF-24B8-4EFC-9CBC-10CC73E94B26"
+IPHONE_PROVISIONING_PROFILE_AD_HOC="D916A3B5-FB13-4DCA-A54F-6758866BF2C5"
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+ACTIONS="clean build"
+# if [ "$SHOULD_CLEAN" == "NO" ]; then
+# 	ACTIONS="build"
+# fi
+
+cd "$MULTIVERSE"
+
+# should I hardcode "Debug" as the CI configuration? (Methinks yes.)
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Distribution" \
+ MULTIVERSE="$MULTIVERSE" \
+ CODE_SIGN_IDENTITY="iPhone Distribution" \
+ PROVISIONING_PROFILE="$IPHONE_PROVISIONING_PROFILE_APP_STORE" \
+ clean build || exit 1
+
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Ad Hoc" \
+ MULTIVERSE="$MULTIVERSE" \
+ USER_VISIBLE_VERSION="$BUILD_ID" \
+ CODE_SIGN_IDENTITY="iPhone Distribution" \
+ PROVISIONING_PROFILE="$IPHONE_PROVISIONING_PROFILE_AD_HOC" \
+ clean build || exit 1
+
+rm "$PROJECT_NAME"/Build/Distribution*.zip 2>&1 > /dev/null || echo "Ignoring nonexisting Distribution.zip"
+rm "$PROJECT_NAME"/Build/"Ad Hoc"*.zip 2>&1 > /dev/null || echo "Ignoring nonexisting Ad Hoc.zip"
+
+for i in "$PROJECT_NAME"/Build/Distribution* "$PROJECT_NAME"/Build/"Ad Hoc"*; do
+	if [ -d "$i" ]; then
+		BASENAME="`basename "$i"`"
+		ditto -ck --sequesterRsrc --rsrc "$i" "$PROJECT_NAME"/Build/"$BASENAME".zip || exit 1
+	fi
+done
+

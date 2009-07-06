@@ -1,0 +1,20 @@
+Welcome to Afloat.
+
+Since version 2.1, Afloat is built by the new Multiverse 3.0 build infrastructure. A small part of this infrastructure is replicated in this tree to allow you to build Afloat correctly; you must however set up your environment to use that folder.
+
+To build Afloat:
+
+ - from the command line, set the MULTIVERSE build setting to the full path to the Multiverse directory in this path. For example, if you have checked out the repository in /Projects/AfloatSVN, the following will build Afloat correctly:
+
+	cd /Projects/AfloatSVN/Afloat
+	xcodebuild -configuration Debug clean build MULTIVERSE=/Projects/AfloatSVN/Multiverse
+	
+ - from the Xcode IDE, choose Xcode > Preferences from the menu, select the Source Trees section, then add a new source tree called MULTIVERSE that points to the Multiverse folder in this tree. For example, if you have checked out the repository in /Projects/AfloatSVN, use /Projects/AfloatSVN/Multiverse as the path. To build non-release code, build the Debug configuration. (See below for building with the Release configuration.)
+
+Note that the build for the Release configuration tries to sign the final output with a Multiverse script. This will likely fail since you don't have a ∞labs code signing certificate in your keychain. You can disable signing by adding the `DISABLE_CODE_SIGNING = YES` user-defined build setting. You can specify it on the xcodebuild command line like this:
+
+	cd /Projects/AfloatSVN/Afloat
+	xcodebuild -configuration Release clean build MULTIVERSE=/Projects/AfloatSVN/Multiverse DISABLE_CODE_SIGNING=YES
+	
+or in the Xcode IDE in the project settings or in the Afloat.xcconfig file.
+

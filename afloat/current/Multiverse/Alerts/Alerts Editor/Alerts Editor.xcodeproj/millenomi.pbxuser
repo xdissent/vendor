@@ -1,0 +1,113 @@
+// !$*UTF8*$!
+{
+	151354480D9E3F7E007D56FA /* Alerts Editor */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Alerts Editor";
+		sourceDirectories = (
+		);
+	};
+	151354540D9E3FCF007D56FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	151354550D9E3FCF007D56FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	151354660D9E405A007D56FA /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 15E39F3E0CE488F700136825 /* L0AlertDocument.h */;
+	};
+	151355D30D9E54FC007D56FA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2A37F4AEFDCFA73011CA2CEA /* L0AlertDocument.h */;
+		name = "L0AlertDocument.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 509;
+		vrLoc = 0;
+	};
+	1532584B0D1DB3E400853C18 /* L0AlertEditor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 671}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 466}";
+			sepNavWindowFrame = "{{15, 45}, {720, 728}}";
+		};
+	};
+	1573E4FF0CE8D2730046EF9C /* Alerts Editor */ = {
+		activeExec = 0;
+		executables = (
+			151354480D9E3F7E007D56FA /* Alerts Editor */,
+		);
+	};
+	15E39F3F0CE488F700136825 /* L0AlertDefinition.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {439, 1314}}";
+			sepNavSelRange = "{198, 0}";
+			sepNavVisRange = "{199, 246}";
+		};
+	};
+	2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 151354480D9E3F7E007D56FA /* Alerts Editor */;
+		activeTarget = 1573E4FF0CE8D2730046EF9C /* Alerts Editor */;
+		addToTargets = (
+			1573E4FF0CE8D2730046EF9C /* Alerts Editor */,
+		);
+		codeSenseManager = 151354550D9E3FCF007D56FA /* Code sense */;
+		executables = (
+			151354480D9E3F7E007D56FA /* Alerts Editor */,
+		);
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 228474750;
+			PBXWorkspaceStateSaveDate = 228474750;
+		};
+		perUserProjectItems = {
+			151354660D9E405A007D56FA /* PBXBookmark */ = 151354660D9E405A007D56FA /* PBXBookmark */;
+			151355D30D9E54FC007D56FA /* PBXTextBookmark */ = 151355D30D9E54FC007D56FA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 151354540D9E3FCF007D56FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2A37F4ACFDCFA73011CA2CEA /* L0AlertDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 1602}}";
+			sepNavSelRange = "{194, 0}";
+			sepNavVisRange = "{0, 954}";
+			sepNavWindowFrame = "{{15, 45}, {720, 728}}";
+		};
+	};
+	2A37F4AEFDCFA73011CA2CEA /* L0AlertDocument.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {661, 671}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 509}";
+			sepNavWindowFrame = "{{15, 45}, {720, 728}}";
+		};
+	};
+}

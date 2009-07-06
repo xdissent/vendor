@@ -1,0 +1,35 @@
+#!/bin/sh
+
+set -avx
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+# CLEAN=
+# if [ "$SHOULD_CLEAN" == "YES" ]; then
+# 	CLEAN=clean
+# fi
+
+cd "$MULTIVERSE"
+
+# should I hardcode "Debug" as the CI configuration? (Methinks yes.)
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Debug" \
+ MULTIVERSE="$MULTIVERSE" \
+ USER_VISIBLE_VERSION="#$BUILD_NUMBER ($BUILD_ID)" \
+ build || exit 1
+# $CLEAN build || exit 1
+
+rm "$PROJECT_NAME"/Build/Debug*.zip 2>&1 > /dev/null || echo "Ignoring nonexisting Debug.zip"
+
+for i in "$PROJECT_NAME"/Build/Debug*; do
+	if [ -d "$i" ]; then
+		BASENAME="`basename "$i"`"
+		ditto -ck --sequesterRsrc --rsrc "$i" "$PROJECT_NAME"/Build/"$BASENAME".zip || exit 1
+	fi
+done
+
