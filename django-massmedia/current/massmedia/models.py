@@ -315,6 +315,9 @@ class Document(Media):
     file = models.FileField(upload_to='docs/%Y/%b/%d', blank=True, null=True)
     def absolute_url(self, format):
         return "%sdocs/%s/%s" % format
+        
+    def basename(self):
+        return os.path.basename(self.file.name)
    
 class Collection(models.Model):
     creation_date = models.DateTimeField(auto_now_add=True)
