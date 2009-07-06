@@ -263,11 +263,11 @@ class Image(Media):
                     return ''
                 im.thumbnail(appsettings.THUMB_SIZE,PilImage.ANTIALIAS)
                 im.save(thumbnail,im.format)
-            return '<a href="%s" title="%s"><img src="%s%s"/></a>'%\
-                    (self.get_absolute_url(),self.title,settings.MEDIA_URL,thumburl)
+            return '<a href="%s" title="%s"><img src="%s%s" alt="%s" /></a>'%\
+                    (self.get_absolute_url(),self.title,settings.MEDIA_URL,thumburl,self.title)
         elif self.external_url:
-            return '<a href="%s"><img src="%s"/></a>'%\
-                        (self.get_absolute_url(),self.get_absolute_url())
+            return '<a href="%s" title="%s"><img src="%s" alt="%s" /></a>'%\
+                        (self.get_absolute_url(),self.title,self.get_absolute_url(),self.title)
         return ''
     thumb.allow_tags = True
     thumb.short_description = 'Thumbnail'
@@ -387,7 +387,7 @@ class Collection(models.Model):
             self.zip_file.delete()
             super(Collection, self).save(*(), **{})
 
-collection_limits = {'model__in':('image','audio','video','flash', 'listing')}
+collection_limits = {'model__in':('image','audio','video','flash', 'document', 'photo')}
 class CollectionRelation(models.Model):
     collection = models.ForeignKey(Collection)
     content_type = models.ForeignKey(ContentType, limit_choices_to=collection_limits)
