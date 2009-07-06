@@ -1,0 +1,23 @@
+#!/bin/sh
+
+set -avx
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+CLEAN=clean
+if [ "$SHOULD_CLEAN" == "NO" ]; then
+	CLEAN=
+fi
+
+cd "$MULTIVERSE"
+
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Release" \
+ MULTIVERSE="$MULTIVERSE" \
+ $CLEAN build || exit 1
+

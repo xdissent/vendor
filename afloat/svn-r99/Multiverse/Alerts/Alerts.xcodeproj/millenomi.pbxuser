@@ -1,0 +1,36 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Debug;
+		activeTarget = 8DC2EF4F0486A6940098B216 /* Alerts */;
+		codeSenseManager = 1513545E0D9E3FDB007D56FA /* Code sense */;
+		perUserDictionary = {
+			PBXPerProjectTemplateStateSaveDate = 228474833;
+			PBXWorkspaceStateSaveDate = 228474833;
+		};
+		sourceControlManager = 1513545D0D9E3FDB007D56FA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1513545D0D9E3FDB007D56FA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	1513545E0D9E3FDB007D56FA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1583DA7D0D0D6B7D00BD8626 /* Alerts.a */ = {
+		activeExec = 0;
+	};
+	15F987EC0D0D6F060011E85A /* Alerts+GC.a */ = {
+		activeExec = 0;
+	};
+	8DC2EF4F0486A6940098B216 /* Alerts */ = {
+		activeExec = 0;
+	};
+}

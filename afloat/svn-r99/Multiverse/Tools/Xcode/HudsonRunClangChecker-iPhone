@@ -1,0 +1,39 @@
+#!/bin/sh
+
+set -avx
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+HERE="`(cd "$HERE"; pwd)`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+cd "$MULTIVERSE"
+REPORTS_DIRECTORY="`(cd "$PROJECT_NAME"; pwd)`"
+REPORTS_DIRECTORY="$REPORTS_DIRECTORY"/TemporaryItems/ClangChecker/Reports
+PROJECT_DIR="`(cd "$PROJECT_NAME"; pwd)`"
+
+rm -Rf "$REPORTS_DIRECTORY"
+mkdir -p "$REPORTS_DIRECTORY"
+touch "$REPORTS_DIRECTORY"/Done # per non far arrabbiare Hudson 
+# quando si usa TemporaryItems/ClangChecker/Reports/** come pattern.
+
+# should I hardcode "Debug" as the CI configuration? (Methinks yes.)
+"$HERE"/../Lint/ClangChecker/Current/scan-build -v -k \
+ -o "$REPORTS_DIRECTORY" \
+\
+ xcodebuild \
+  -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+  -target "$PROJECT_NAME" \
+  -configuration "Debug" \
+  -sdk iphonesimulator2.0 \
+  MULTIVERSE="$MULTIVERSE" \
+  SYMROOT="$PROJECT_DIR"/Build/ClangChecker \
+  OBJROOT="$PROJECT_DIR"/TemporaryItems/ClangChecker/Objects \
+  clean build 2>&1 > "$PROJECT_DIR"/TemporaryItems/ClangChecker.log || exit 1
+
+cat "$PROJECT_NAME"/TemporaryItems/ClangChecker.log
+if (grep "bugs found" "$PROJECT_DIR"/TemporaryItems/ClangChecker.log > /dev/null) then
+	echo "warning: bugs were found. Please use the analyzer's tools to check them out." >&2
+	exit 1
+fi

@@ -1,0 +1,38 @@
+#!/bin/sh
+
+set -avx
+
+IPHONE_PROVISIONING_PROFILE="F5280371-7BB5-43DC-BE01-0D6A8BA3F7E2"
+
+PROJECT_NAME="$1"
+HERE="`dirname "$0"`"
+# assumes we're in Tools/Xcode
+MULTIVERSE="`(cd "$HERE"/../../; pwd)`"
+
+ACTIONS="clean build"
+# if [ "$SHOULD_CLEAN" == "NO" ]; then
+# 	ACTIONS="build"
+# fi
+
+cd "$MULTIVERSE"
+
+# should I hardcode "Debug" as the CI configuration? (Methinks yes.)
+xcodebuild \
+ -project "$PROJECT_NAME"/"$PROJECT_NAME".xcodeproj \
+ -target "$PROJECT_NAME" \
+ -configuration "Debug" \
+ MULTIVERSE="$MULTIVERSE" \
+ USER_VISIBLE_VERSION="#$BUILD_NUMBER ($BUILD_ID)" \
+ CODE_SIGN_IDENTITY="iPhone Developer" \
+ PROVISIONING_PROFILE="$IPHONE_PROVISIONING_PROFILE" \
+ $ACTIONS || exit 1
+
+rm "$PROJECT_NAME"/Build/Debug*.zip 2>&1 > /dev/null || echo "Ignoring nonexisting Debug.zip"
+
+for i in "$PROJECT_NAME"/Build/Debug*; do
+	if [ -d "$i" ]; then
+		BASENAME="`basename "$i"`"
+		ditto -ck --sequesterRsrc --rsrc "$i" "$PROJECT_NAME"/Build/"$BASENAME".zip || exit 1
+	fi
+done
+

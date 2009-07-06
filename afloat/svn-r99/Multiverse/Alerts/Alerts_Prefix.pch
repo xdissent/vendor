@@ -1,0 +1,22 @@
+//
+// Prefix header for all source files of the 'Alerts' target in the 'Alerts' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+
+#ifdef __OBJC__
+#ifdef DEBUG
+
+#define L0Log(x, args...) NSLog(@"<DEBUG: '%s'>: " x, __func__, args)
+#define L0LogS(x) NSLog(@"<DEBUG: '%s'>: " x, __func__)
+
+#else
+
+#define L0Log(x, args...) do { {args;} } while(0)
+#define L0LogS(x) do {} while(0)
+
+#endif // DEBUG
+#endif // __OBJC__
+
