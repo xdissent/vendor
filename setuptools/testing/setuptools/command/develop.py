@@ -55,8 +55,11 @@ class develop(easy_install):
         self.egg_base = ei.egg_base
         if self.egg_path is None:
             self.egg_path = os.path.abspath(ei.egg_base)
+        sys.stderr.write('\n***\n\n%s\n\n***\n' % self.egg_path)
 
         target = normalize_path(self.egg_base)
+        sys.stderr.write('\n***\n\n%s\n\n***\n' % target)
+
         if normalize_path(os.path.join(self.install_dir, self.egg_path)) != target:
             raise DistutilsOptionError(
                 "--egg-path must be a relative path from the install"
