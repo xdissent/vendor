@@ -732,7 +732,10 @@ def install_activate(home_dir, bin_dir):
         files = {'activate': ACTIVATE_SH}
     files['activate_this.py'] = ACTIVATE_THIS
     for name, content in files.items():
-        content = content.replace('__VIRTUAL_ENV__', os.path.abspath(home_dir))
+        if 'WORKON_HOME' in os.environ:
+            content = content.replace('__VIRTUAL_ENV__', os.path.join(os.environ['WORKON_HOME'], os.path.basename(os.path.abspath(home_dir))))
+        else:
+            content = content.replace('__VIRTUAL_ENV__', os.path.abspath(home_dir))
         content = content.replace('__VIRTUAL_NAME__', os.path.basename(os.path.abspath(home_dir)))
         content = content.replace('__BIN_NAME__', os.path.basename(bin_dir))
         writefile(os.path.join(bin_dir, name), content)
