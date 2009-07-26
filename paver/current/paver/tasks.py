@@ -436,7 +436,7 @@ line (%s) attempts to set an option.""" % (args))
             break
     return task, taskname, args
 
-def _parse_global_options(args):
+def parse_global_options(args):
     # this is where global options should be dealt with
     parser = optparse.OptionParser(usage=
         """Usage: %prog [global options] taskname [task options] """
@@ -472,7 +472,7 @@ def _parse_command_line(args):
     task, taskname, args = _preparse(args)
     
     if not task:
-        args = _parse_global_options(args)
+        args = parse_global_options(args)
         if not args:
             return None, []
         
@@ -551,7 +551,7 @@ def help(args, help_function):
         for task in group:
             print(fmt % (task.shortname, task.description))
 
-def _process_commands(args, auto_pending=False):
+def process_commands(args, auto_pending=False):
     first_loop = True
     while True:
         task, args = _parse_command_line(args)
@@ -593,7 +593,7 @@ def _launch_pavement(args):
     if not os.path.exists(environment.pavement_file):
         environment.pavement_file = None
         exec "from paver.easy import *\n" in mod.__dict__
-        _process_commands(args)
+        process_commands(args)
         return
         
     mod.__file__ = environment.pavement_file
@@ -601,7 +601,7 @@ def _launch_pavement(args):
         execfile(environment.pavement_file, mod.__dict__)
         auto_task = getattr(mod, 'auto', None)
         auto_pending = isinstance(auto_task, Task)
-        _process_commands(args, auto_pending=auto_pending)
+        process_commands(args, auto_pending=auto_pending)
     except PavementError, e:
         print "\n\n*** Problem with pavement:\n%s\n%s\n\n" % (
                     os.path.abspath(environment.pavement_file), e)
@@ -617,7 +617,7 @@ def main(args=None):
 
     # need to parse args to recover pavement-file to read before executing
     try:
-        args = _parse_global_options(args)
+        args = parse_global_options(args)
         _launch_pavement(args)
     except BuildFailure, e:
         environment.error("Build failed: %s", e)
